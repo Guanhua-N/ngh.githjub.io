@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://mirrors.tuna.tsinghua.edu.cn/rubygems/"
 
 group :jekyll_plugins do
   gem 'jekyll'
@@ -11,3 +11,5 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem 'tzinfo-data'
