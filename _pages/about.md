@@ -9,7 +9,7 @@ redirect_from:
 
 # Short Biography
 
-Dr. Qian received Ph.D. degree in computer science from Nanjing University (NJU) in 2007. He is currently a full professor in the department of computer science and technology, Nanjing University. He is also a research fellow of the State Key Laboratory for Novel Software Technology.
+Dr. Qian received Ph.D. degree in computer science from Nanjing University (NJU) in 2007. He is currently a full professor in the [department of computer science and technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). He is also a research fellow of the State Key Laboratory for Novel Software Technology.
 
 # Research Interest
 My current research interests include but not limit to:
