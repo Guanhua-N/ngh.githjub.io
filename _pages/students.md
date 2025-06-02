@@ -1,3 +1,9 @@
+---
+title: "Students"
+permalink: /students/
+author_profile: true
+---
+
 ## PhD Students
 
 Yibo Jin (2017-present)
