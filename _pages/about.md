@@ -13,9 +13,10 @@ Dr. Qian received Ph.D. degree in computer science from Nanjing University (NJU)
 
 # Research Interest
 My current research interests include but not limit to:
-- Distributed System
+- Inference Acceleration for LLM
+- Edge AI
 - Cloud Computing
-- Edge Computing
+- Distributed AI Systems
 
 # Correspondence
 Email: qzz@nju.edu.cn
