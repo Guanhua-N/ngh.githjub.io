@@ -15,7 +15,7 @@
     - 修改项目根目录下的Gemfile
       - 将source "https://rubygems.org"改为source "https://mirrors.tuna.tsinghua.edu.cn/rubygems/"
       - 
-- bundle exec jekyll serve后打开http://localhost:4000就能预览
+- bundle exec jekyll serve后打开http://localhost:4000 就能预览
 
 - bundle exec jekyll build会在根目录下生成_site文件夹，里面是纯静态网页文件（HTML/CSS/JS）。可以部署到ngix上。
 
