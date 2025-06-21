@@ -46,7 +46,7 @@ def format_entries(entry,namelist):
         else:
             raise ValueError(f"[错误] 记录{entry}的end_page非空但start_page为空 ，请检查数据。")
         
-    line = f"[{type}{no}]{authors}.{title}._{totalNmae_venue}{abbreviation_venue}_{vol}{num}{start_page}{end_page}"
+    line = f"[{type}{no}]{authors}.{title}.<i>{totalNmae_venue}{abbreviation_venue}</i>{vol}{num}{start_page}{end_page}"
     
     return line
 
@@ -59,9 +59,15 @@ def main():
 
     risProcess_entry = load_json_data(risProcess)
     manualMap_entry = load_json_data(manualMap)
+    last_year = ""
     for i, entry in enumerate(risProcess_entry, start=1):
+        if(entry['year'] != last_year):
+            result.append(f"## {entry['year']}")
+            last_year = entry['year']
         namelist = manualMap_entry[entry["venue"]]
-        result.append(format_entries(entry,namelist))
+        line = format_entries(entry,namelist)
+        processed_line = f'<p class="pub-entry">\n{line}\n</p>'
+        result.append(processed_line)
 
 
     
