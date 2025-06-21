@@ -2,16 +2,9 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
-classes: publications
 ---
 
 <style>
-/* 仅对 Publications 页面扩展宽度 */
-.page.publications {
-  max-width: 1500px !important;
-  margin: 0 auto;
-}
-
 /* 可选：优化正文字体 */
 #main {
   font-family: "Computer Modern", serif;
@@ -20,12 +13,20 @@ classes: publications
   font-weight: 500;
 }
 
-/* 可选：优化论文列表段落 */
-#publications-list p {
-  font-size: 15px;
-  font-family: "Georgia", serif;
-  color: #333;
-  margin-bottom: 12px;
+.author__name {
+  font-size: 18px !important;
+}
+
+.author__bio {
+  font-size: 13px !important;
+}
+
+.author__content,
+.author__urls-wrapper,
+.author__urls,
+.author__location,
+.author__employer {
+  font-size: 18px !important;
 }
 </style>
 
