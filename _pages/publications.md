@@ -2,18 +2,25 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: publications
 ---
 
 <style>
-/* 更改整页正文字体 */
+/* 仅对 Publications 页面扩展宽度 */
+.page.publications {
+  max-width: 1500px !important;
+  margin: 0 auto;
+}
+
+/* 可选：优化正文字体 */
 #main {
   font-family: "Computer Modern", serif;
   font-size: 16px;
   line-height: 1.7;
-  font-weight: 550; /* 加粗正文 */
+  font-weight: 500;
 }
 
-/* 更具体的元素控制 */
+/* 可选：优化论文列表段落 */
 #publications-list p {
   font-size: 15px;
   font-family: "Georgia", serif;
@@ -21,6 +28,7 @@ author_profile: true
   margin-bottom: 12px;
 }
 </style>
+
 
 ## 2025
 
