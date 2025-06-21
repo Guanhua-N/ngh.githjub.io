@@ -3,6 +3,7 @@ from rispy import load
 import re
 import io
 import json
+from titlecase import titlecase
 
 # === 设置 DBLP PID ===
 pid = "96/2572"
@@ -28,24 +29,60 @@ else:
 entries = load(io.StringIO(ris_clean))
 
 # 生成未经处理的ris文件，查看字段结构
-with open("publications_preprocess.txt", "w", encoding="utf-8") as f:
+with open("risWithoutPreprocess.json", "w", encoding="utf-8") as f:
     for entry in entries:
         json.dump(entries, f, indent=2, ensure_ascii=False)
 
 
 # === 分类存储 ===
-journals = []
-confs = []
-others = []
+jour_num = 0
+conf_num = 0
+other_num = 0
+
+# 用于存储所有期刊和会议的 venue
+venues_list = []
+
+# 用于存储处理后的 JSON 格式的条目
+json_entries = []
 
 
 # === 辅助函数 ===
-def format_authors(authors):
-    if isinstance(authors, list):
-        return ", ".join(authors)
-    else:
-        return authors
 
+# 格式化作者列表
+def format_authors(authors_list):
+    formatted_authors = []
+    for author in authors_list:
+        # author 形如 "姓, 名"
+        parts = author.split(",")
+        if len(parts) == 2:
+            last_name = parts[0].strip()
+            first_name = parts[1].strip()
+            formatted_authors.append(f"{first_name} {last_name}")
+        else:
+            # 万一格式不标准，直接保留原字符串
+            formatted_authors.append(author.strip())
+    return ", ".join(formatted_authors)
+# 格式化年份
+def format_year(year_str):
+    match = re.match(r"(\d{4})", year_str)
+    if match:
+        return match.group(1)
+    else:
+        return ""  # 找不到年份就返回空字符串
+# 格式化论文类型
+def format_type(typ):
+    if typ == "JOUR":
+        return "J"
+    elif typ == "CPAPER":
+        return "C"
+    else:
+        return "I"
+    
+# 格式化标题
+def format_title(title):
+    return titlecase(title)
+
+# 获取会议/期刊名称
 def get_venue(entry):
     # 尝试直接字段
     for key in ["journal_name", "booktitle", "t2"]:
@@ -61,48 +98,82 @@ def get_venue(entry):
 
     return "Unknown Venue"
 
-def format_entry(entry):
-    authors = format_authors(entry.get("authors", entry.get("AU", [])))
-    title = entry.get("title", entry.get("TI", "")).strip(". ")
-    year = entry.get("year", entry.get("PY", ""))
+for entry in entries:
+    # 收集所有 venue
     venue = get_venue(entry)
-    doi = entry.get("doi", entry.get("DO", ""))
-    url = entry.get("url", entry.get("UR", ""))
-
-    title = re.sub(r"[{}]", "", title)
-    link = f" [DOI](https://doi.org/{doi})" if doi else f" [Link]({url})" if url else ""
-
-    return f"{authors}.  \n*{title}*.  \n**{venue}**, {year}.{link}"
-
+    if venue:
+        venues_list.append(venue)
+# 输出所有 venue 到文件中
+with open("venues.txt", "w", encoding="utf-8") as f:
+    for venue in venues_list:
+        f.write(f"{venue}\n")
 
 # === 遍历所有条目，根据类型分类 ===
 for entry in entries:
-    # 试用 'type_of_reference' 或 'TY' 字段判断类型
-    typ = entry.get("type_of_reference", "").lower()
-    if not typ:
-        typ = entry.get("TY", "").lower()
+    # 用 'type_of_reference'判断是期刊还是会议
+    typ = entry.get("type_of_reference", "")
     # RIS常用类型
-    if typ == "jour":  # 期刊
-        journals.append(format_entry(entry))
-    elif typ in ["conf", "proceedings", "cpaper"]:  # 会议，常见的RIS会议类型
-        confs.append(format_entry(entry))
+    if typ == "JOUR":  # 期刊
+        jour_num+=1
+    elif typ == "CPAPER":  # 会议
+        conf_num+=1
     else:
-        others.append(format_entry(entry))
+        other_num+=1
 
-# === 输出 Markdown 文件 ===
-with open("publications.txt", "w", encoding="utf-8") as f:
-    f.write("# Publications\n\n")
-    
-    f.write("## Journal Articles\n\n")
-    for i, pub in enumerate(journals, 1):
-        f.write(f"[j{i}] {pub}\n\n")
-        
-    f.write("## Conference Papers\n\n")
-    for i, pub in enumerate(confs, 1):
-        f.write(f"[c{i}] {pub}\n\n")
-        
-    f.write("## Other Publications\n\n")
-    for i, pub in enumerate(others, 1):
-        f.write(f"[i{i}] {pub}\n\n")
+# === 生成并输出处理后的文件 ===
+junm=0
+cnum=0
+inum=0
+for entry in entries:
+    if entry.get("type_of_reference", "") == "JOUR":
+        entry["no"] = jour_num-junm
+        junm += 1
+    elif entry.get("type_of_reference", "") == "CPAPER":
+        entry["no"] = conf_num-cnum
+        cnum += 1
+    else:
+        entry["no"] = other_num-inum
+        inum += 1
+    json_entry = {
+        "type": format_type(entry.get("type_of_reference", "")),
+        "no": entry.get("no", -1),  # 使用之前计算的编号
+        "venue": get_venue(entry),
+        "authors": format_authors(entry.get("authors", [])),
+        "title": format_title(entry.get("title", "").strip(". ")),
+        "vol": entry.get("volume", ""),
+        "num": entry.get("number", ""),
+        "start_page": entry.get("start_page", ""),
+        "end_page": entry.get("end_page", ""),
+        "year": format_year(entry.get("year", "")),
+        "doi": entry.get("doi", ""),
+        "urls": entry.get("urls", []),
+    }
+    json_entries.append(json_entry)
 
-print(f"✅ 成功生成 publications.txt，包含 {len(journals)} 篇期刊论文 和 {len(confs)} 篇会议论文，以及 {len(others)} 篇其他论文")
+with open("risProcess.json", "w", encoding="utf-8") as f:
+    json.dump(json_entries, f, indent=2, ensure_ascii=False)
+
+print(f"✅ 成功生成 risProcess.json 包含 {jour_num} 篇期刊论文 和 {conf_num} 篇会议论文，以及 {other_num} 篇其他论文")
+print(f"✅ 已生成 risProcess.json 共 {len(json_entries)} 篇论文。")
+
+"""
+# 示例输出格式
+{
+    "type": 会议/期刊/其他
+    "no":改论文在对应type中的编号,
+    "venue": 会议/期刊名称,
+    "authors": string格式的作者列表,
+    "title": 论文名,
+    "vol": 期刊卷号,
+    "num": 期刊期号,
+    "start_page": ,
+    "end_page": ,
+    "year": 年份,
+    "doi": "10.1109/ICPADS47876.2019.00017",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS47876.2019.00017",
+      ...
+    ]
+}
+
+"""

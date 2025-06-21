@@ -1,0 +1,2958 @@
+[
+  {
+    "type": "J",
+    "no": 60,
+    "venue": "Comput. Networks",
+    "authors": "Mingtao Ji, Ji Qi, Lei Jiao, Gangyi Luo, Hehan Zhao, Xin Li, Baoliu Ye, Zhuzhong Qian",
+    "title": "CPN Meets Learning: Online Scheduling for Inference Service in Computing Power Network",
+    "vol": "256",
+    "num": "",
+    "start_page": "110903",
+    "end_page": "",
+    "year": "2025",
+    "doi": "10.1016/J.COMNET.2024.110903",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2024.110903"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 59,
+    "venue": "Comput. Networks",
+    "authors": "Yichen Lu, Ji Qi, Sheng Zhang, Gangyi Luo, Andong Zhu, Jie Wu, Zhuzhong Qian",
+    "title": "ABUV: Adaptive Bitrate and Upsampling for Video Streaming on Mobile Devices",
+    "vol": "257",
+    "num": "",
+    "start_page": "110994",
+    "end_page": "",
+    "year": "2025",
+    "doi": "10.1016/J.COMNET.2024.110994",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2024.110994"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 58,
+    "venue": "Comput. Networks",
+    "authors": "Yunqi Sun, Hesheng Sun, Tuo Cao, Mingtao Ji, Zhuzhong Qian, Lingkun Meng, Dongxu Wang, Xiangyu Li",
+    "title": "Towards Strong Continuous Consistency in Edge-Assisted VR-SGs: Delay-Differences Sensitive Online Task Redistribution",
+    "vol": "258",
+    "num": "",
+    "start_page": "111003",
+    "end_page": "",
+    "year": "2025",
+    "doi": "10.1016/J.COMNET.2024.111003",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2024.111003"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 57,
+    "venue": "Comput. Networks",
+    "authors": "Yang Chen, Lei Jiao, Tuo Cao, Ji Qi, Gangyi Luo, Sheng Zhang, Sanglu Lu, Zhuzhong Qian",
+    "title": "Toward Auction-Based Edge AI: Orchestrating and Incentivizing Online Transfer Learning in Edge Networks",
+    "vol": "265",
+    "num": "",
+    "start_page": "111300",
+    "end_page": "",
+    "year": "2025",
+    "doi": "10.1016/J.COMNET.2025.111300",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2025.111300"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 56,
+    "venue": "J. Comput. Sci. Technol.",
+    "authors": "Mingtao Ji, Yibo Jin, Zhuzhong Qian, Tuo Cao, Bao-Liu Ye",
+    "title": "Orchestrating in-Network Aggregation for Distributed Machine Learning via in-Band Network Telemetry",
+    "vol": "40",
+    "num": "1",
+    "start_page": "196",
+    "end_page": "214",
+    "year": "2025",
+    "doi": "10.1007/S11390-024-3342-Y",
+    "urls": [
+      "https://doi.org/10.1007/s11390-024-3342-y"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 55,
+    "venue": "IEEE Trans. Mob. Comput.",
+    "authors": "Xiaohang Shi, Sheng Zhang, Meizhao Liu, Lingkun Meng, Liu Wei, Yingcheng Gu, Kai Liu, Huanyu Cheng, Yu Song, Lei Tang, Andong Zhu, Ning Chen, Zhuzhong Qian",
+    "title": "Mystique: User-Level Adaptation for Real-Time Video Analytics in Edge Networks via Meta-Rl",
+    "vol": "24",
+    "num": "5",
+    "start_page": "3615",
+    "end_page": "3632",
+    "year": "2025",
+    "doi": "10.1109/TMC.2024.3514088",
+    "urls": [
+      "https://doi.org/10.1109/TMC.2024.3514088"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 54,
+    "venue": "Comput. Networks",
+    "authors": "Tuo Cao, Qinhui Wang, Yuhan Zhang, Zhuzhong Qian, Yue Zeng, Mingtao Ji, Hesheng Sun, Baoliu Ye",
+    "title": "Walking on Two Legs: Joint Service Placement and Computation Configuration for Provisioning Containerized Services at Edges",
+    "vol": "239",
+    "num": "",
+    "start_page": "110144",
+    "end_page": "",
+    "year": "2024",
+    "doi": "10.1016/J.COMNET.2023.110144",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2023.110144"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 53,
+    "venue": "Comput. Networks",
+    "authors": "Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, Yu Chen, Tuo Cao, Sheng Zhang, Baoliu Ye",
+    "title": "INTaaS: Provisioning in-Band Network Telemetry as a Service via Online Learning",
+    "vol": "241",
+    "num": "",
+    "start_page": "110211",
+    "end_page": "",
+    "year": "2024",
+    "doi": "10.1016/J.COMNET.2024.110211",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2024.110211",
+      "https://www.wikidata.org/entity/Q129356872"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 52,
+    "venue": "IEEE Trans. Mob. Comput.",
+    "authors": "Yu Chen, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Wenzhong Li, Yu Liang, Sanglu Lu",
+    "title": "Crowdsourcing Upon Learning: Energy-Aware Dispatch With Guarantee for Video Analytics",
+    "vol": "23",
+    "num": "4",
+    "start_page": "3138",
+    "end_page": "3155",
+    "year": "2024",
+    "doi": "10.1109/TMC.2023.3269807",
+    "urls": [
+      "https://doi.org/10.1109/TMC.2023.3269807"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 51,
+    "venue": "IEEE Trans. Mob. Comput.",
+    "authors": "Yuting Yan, Sheng Zhang, Yibo Jin, Fangwen Cheng, Zhuzhong Qian, Sanglu Lu",
+    "title": "Spatial and Temporal Detection With Attention for Real-Time Video Analytics at Edges",
+    "vol": "23",
+    "num": "10",
+    "start_page": "9254",
+    "end_page": "9270",
+    "year": "2024",
+    "doi": "10.1109/TMC.2024.3361016",
+    "urls": [
+      "https://doi.org/10.1109/TMC.2024.3361016"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 50,
+    "venue": "IEEE/ACM Trans. Netw.",
+    "authors": "Ning Chen, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, Sanglu Lu",
+    "title": "ViChaser: Chase Your Viewpoint for Live Video Streaming With Block-Oriented Super-Resolution",
+    "vol": "32",
+    "num": "1",
+    "start_page": "445",
+    "end_page": "459",
+    "year": "2024",
+    "doi": "10.1109/TNET.2023.3286108",
+    "urls": [
+      "https://doi.org/10.1109/TNET.2023.3286108"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 118,
+    "venue": "Algorithms and Architectures for Parallel Processing - 24th International Conference, ICA3PP 2024, Macau, China, October 29-31, 2024, Proceedings, Part VI",
+    "authors": "Yingjie Zhu, Ji Qi, Zehao Wang, Shengjie Wei, Yan Chen, Tuo Cao, Gangyi Luo, Zhuzhong Qian",
+    "title": "Low-Carbon Geographically Distributed Cloud-Edge Task Scheduling",
+    "vol": "",
+    "num": "",
+    "start_page": "179",
+    "end_page": "199",
+    "year": "2024",
+    "doi": "10.1007/978-981-96-1551-3_13",
+    "urls": [
+      "https://doi.org/10.1007/978-981-96-1551-3_13"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 117,
+    "venue": "40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, The Netherlands, May 13-16, 2024",
+    "authors": "Yu Chen, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, Ning Chen, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, Harry Xu",
+    "title": "MACRO: Incentivizing Multi-Leader Game-Based Pareto-Efficient Crowdsourcing for Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "289",
+    "end_page": "302",
+    "year": "2024",
+    "doi": "10.1109/ICDE60146.2024.00029",
+    "urls": [
+      "https://doi.org/10.1109/ICDE60146.2024.00029"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 116,
+    "venue": "IEEE INFOCOM 2024 - IEEE Conference on Computer Communications, Vancouver, BC, Canada, May 20-23, 2024",
+    "authors": "Andong Zhu, Sheng Zhang, Ke Cheng, Xiaohang Shi, Zhuzhong Qian, Sanglu Lu",
+    "title": "AdaStreamer: Machine-Centric High-Accuracy Multi-Video Analytics With Adaptive Neural Codecs",
+    "vol": "",
+    "num": "",
+    "start_page": "1161",
+    "end_page": "1170",
+    "year": "2024",
+    "doi": "10.1109/INFOCOM52122.2024.10621074",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM52122.2024.10621074"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 115,
+    "venue": "IEEE INFOCOM 2024 - IEEE Conference on Computer Communications, Vancouver, BC, Canada, May 20-23, 2024",
+    "authors": "Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian, Sanglu Lu",
+    "title": "TileSR: Accelerate on-Device Super-Resolution With Parallel Offloading in Tile Granularity",
+    "vol": "",
+    "num": "",
+    "start_page": "2538",
+    "end_page": "2547",
+    "year": "2024",
+    "doi": "10.1109/INFOCOM52122.2024.10621208",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM52122.2024.10621208"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 114,
+    "venue": "21st Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2024, Phoenix, AZ, USA, December 2-4, 2024",
+    "authors": "Mingtao Ji, Lei Jiao, Yitao Fan, Yang Chen, Zhuzhong Qian, Ji Qi, Gangyi Luo, Baoliu Ye",
+    "title": "Online Scheduling of Federated Learning With in-Network Aggregation and Flow Routing",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "9",
+    "year": "2024",
+    "doi": "10.1109/SECON64284.2024.10934850",
+    "urls": [
+      "https://doi.org/10.1109/SECON64284.2024.10934850"
+    ]
+  },
+  {
+    "type": "I",
+    "no": 4,
+    "venue": "CoRR",
+    "authors": "Zezhou Wang, Yaxin Du, Zhuzhong Qian, Siheng Chen",
+    "title": "Federated Instruction Tuning of LLMs With Domain Coverage Augmentation",
+    "vol": "abs/2409.20135",
+    "num": "",
+    "start_page": "",
+    "end_page": "",
+    "year": "2024",
+    "doi": "10.48550/ARXIV.2409.20135",
+    "urls": [
+      "https://doi.org/10.48550/arXiv.2409.20135"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 49,
+    "venue": "IEEE/ACM Trans. Netw.",
+    "authors": "Yibo Jin, Lei Jiao, Mingtao Ji, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu",
+    "title": "Scheduling in-Band Network Telemetry With Convergence-Preserving Federated Learning",
+    "vol": "31",
+    "num": "5",
+    "start_page": "2313",
+    "end_page": "2328",
+    "year": "2023",
+    "doi": "10.1109/TNET.2023.3253302",
+    "urls": [
+      "https://doi.org/10.1109/TNET.2023.3253302"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 48,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Xin Li, Junsong Zhou, Xin Wei, Dawei Li, Zhuzhong Qian, Jie Wu, Xiaolin Qin, Sanglu Lu",
+    "title": "Topology-Aware Scheduling Framework for Microservice Applications in Cloud",
+    "vol": "34",
+    "num": "5",
+    "start_page": "1635",
+    "end_page": "1649",
+    "year": "2023",
+    "doi": "10.1109/TPDS.2023.3238751",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2023.3238751",
+      "https://www.wikidata.org/entity/Q122874982"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 113,
+    "venue": "9th International Conference on Big Data Computing and Communications, BigCom 2023, Hainan, China, August 4-6, 2023",
+    "authors": "Mingtao Ji, Mingxian Zhou, Haodong Zou, Ming Tang, Zhuzhong Qian, Xiaoliang Wang",
+    "title": "SAC: Dynamic Caching Upon Sketch for in-Memory Big Data Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "180",
+    "end_page": "187",
+    "year": "2023",
+    "doi": "10.1109/BIGCOM61073.2023.00032",
+    "urls": [
+      "https://doi.org/10.1109/BIGCOM61073.2023.00032"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 112,
+    "venue": "ECAI 2023 - 26th European Conference on Artificial Intelligence, September 30 - October 4, 2023, Kraków, Poland - Including 12th Conference on Prestigious Applications of Intelligent Systems (PAIS 2023)",
+    "authors": "Xun Wang, Haonan Chen, Junming Yang, Zhuzhong Qian, Bolei Zhang",
+    "title": "SDV: Simple Double Validation Model-Based Offline Reinforcement Learning",
+    "vol": "",
+    "num": "",
+    "start_page": "2568",
+    "end_page": "2574",
+    "year": "2023",
+    "doi": "10.3233/FAIA230562",
+    "urls": [
+      "https://doi.org/10.3233/FAIA230562"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 111,
+    "venue": "Algorithms and Architectures for Parallel Processing - 23rd International Conference, ICA3PP 2023, Tianjin, China, October 20-22, 2023, Proceedings, Part I",
+    "authors": "Fanhao Kong, Tuo Cao, Zhuzhong Qian, Xiaoliang Wang, Ming Zhao, Liming Wang, Zhenjie Lin",
+    "title": "Joint Video Transcoding and Representation Selection for Edge-Assisted Multi-Party Video Conferencing",
+    "vol": "",
+    "num": "",
+    "start_page": "380",
+    "end_page": "400",
+    "year": "2023",
+    "doi": "10.1007/978-981-97-0834-5_22",
+    "urls": [
+      "https://doi.org/10.1007/978-981-97-0834-5_22"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 110,
+    "venue": "IEEE International Conference on Communications, ICC 2023, Rome, Italy, May 28 - June 1, 2023",
+    "authors": "Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Yu Chen, Yibo Jin, Sheng Zhang, Baoliu Ye",
+    "title": "INTView: Adaptive Planner for in-Band Network Telemetry Without Detours",
+    "vol": "",
+    "num": "",
+    "start_page": "5490",
+    "end_page": "5495",
+    "year": "2023",
+    "doi": "10.1109/ICC45041.2023.10279624",
+    "urls": [
+      "https://doi.org/10.1109/ICC45041.2023.10279624"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 109,
+    "venue": "IEEE International Conference on Communications, ICC 2023, Rome, Italy, May 28 - June 1, 2023",
+    "authors": "Zhi Ma, Sheng Zhang, Ning Chen, Zhuzhong Qian, Qing Gu, Yu Liang, Sanglu Lu",
+    "title": "Dependent Task Offloading and Service Caching With State Management for Mobile Edge Computing",
+    "vol": "",
+    "num": "",
+    "start_page": "6249",
+    "end_page": "6254",
+    "year": "2023",
+    "doi": "10.1109/ICC45041.2023.10279519",
+    "urls": [
+      "https://doi.org/10.1109/ICC45041.2023.10279519"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 108,
+    "venue": "29th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2023, Ocean Flower Island, China, December 17-21, 2023",
+    "authors": "Mingtao Ji, Zhuzhong Qian, Baoliu Ye",
+    "title": "When CPN Meets AI: Resource Provisioning for Inference Query Upon Computing Power Network",
+    "vol": "",
+    "num": "",
+    "start_page": "2261",
+    "end_page": "2268",
+    "year": "2023",
+    "doi": "10.1109/ICPADS60453.2023.00304",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS60453.2023.00304"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 107,
+    "venue": "29th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2023, Ocean Flower Island, China, December 17-21, 2023",
+    "authors": "Yitao Fan, Mingtao Ji, Zhuzhong Qian",
+    "title": "Accelerating Federated Learning With Adaptive Extra Local Updates Upon Edge Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "2588",
+    "end_page": "2595",
+    "year": "2023",
+    "doi": "10.1109/ICPADS60453.2023.00344",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS60453.2023.00344"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 106,
+    "venue": "Proceedings of the 52nd International Conference on Parallel Processing, ICPP 2023, Salt Lake City, UT, USA, August 7-10, 2023",
+    "authors": "Hesheng Sun, Xinyi Chen, Zhuzhong Qian, Zengji Li, Ning Chen, Tuo Cao, Suwei Xu, Yitong Zhou",
+    "title": "BIRP: Batch-Aware Inference Workload Redistribution and Parallel Scheme for Edge Collaboration",
+    "vol": "",
+    "num": "",
+    "start_page": "72",
+    "end_page": "81",
+    "year": "2023",
+    "doi": "10.1145/3605573.3605615",
+    "urls": [
+      "https://doi.org/10.1145/3605573.3605615"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 105,
+    "venue": "31st IEEE/ACM International Symposium on Quality of Service, IWQoS 2023, Orlando, FL, USA, June 19-21, 2023",
+    "authors": "Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, Yu Chen, Tuo Cao, Xiaohang Shi, Luis Vasquez, Baoliu Ye",
+    "title": "Adaptive Provisioning in-Band Network Telemetry at Computing Power Network [Invited]",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "2",
+    "year": "2023",
+    "doi": "10.1109/IWQOS57198.2023.10188738",
+    "urls": [
+      "https://doi.org/10.1109/IWQoS57198.2023.10188738"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 104,
+    "venue": "14th International Conference on Network of the Future, NoF 2023, Izmir, Turkey, October 4-6, 2023",
+    "authors": "Jian Tang, Tingting Xu, Liming Wang, Zhenjie Lin, Ming Zhao, Xiaoliang Wang, Cam-Tu Nguyen, Chen Tian, Zhuzhong Qian, Wenzhong Li",
+    "title": "SQCC: Stable Queue Congestion Control",
+    "vol": "",
+    "num": "",
+    "start_page": "19",
+    "end_page": "27",
+    "year": "2023",
+    "doi": "10.1109/NOF58724.2023.10302751",
+    "urls": [
+      "https://doi.org/10.1109/NoF58724.2023.10302751"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 103,
+    "venue": "20th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2023, Madrid, Spain, September 11-14, 2023",
+    "authors": "Mingtao Ji, Zhixin Zhang, Yuhan Zhang, Zhuzhong Qian, Tuo Cao, Chenwei Su, Baoliu Ye",
+    "title": "Incentivizing Edge AI With Accuracy Preserving via Online Randomized Auctions",
+    "vol": "",
+    "num": "",
+    "start_page": "384",
+    "end_page": "385",
+    "year": "2023",
+    "doi": "10.1109/SECON58729.2023.10287443",
+    "urls": [
+      "https://doi.org/10.1109/SECON58729.2023.10287443"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 102,
+    "venue": "20th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2023, Madrid, Spain, September 11-14, 2023",
+    "authors": "Yibo Jin, Lei Jiao, Zhuzhong Qian, Ruiting Zhou, Lingjun Pu",
+    "title": "Orchestrating Blockchain With Decentralized Federated Learning in Edge Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "483",
+    "end_page": "491",
+    "year": "2023",
+    "doi": "10.1109/SECON58729.2023.10287416",
+    "urls": [
+      "https://doi.org/10.1109/SECON58729.2023.10287416"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 47,
+    "venue": "Comput. Networks",
+    "authors": "Tuo Cao, Yibo Jin, Xiongfeng Hu, Sheng Zhang, Zhuzhong Qian, Baoliu Ye, Sanglu Lu",
+    "title": "Adaptive Provisioning for Mobile Cloud Gaming at Edges",
+    "vol": "205",
+    "num": "",
+    "start_page": "108704",
+    "end_page": "",
+    "year": "2022",
+    "doi": "10.1016/J.COMNET.2021.108704",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2021.108704"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 46,
+    "venue": "J. Syst. Archit.",
+    "authors": "Yitong Zhou, Hesheng Sun, Yibo Jin, Yanfang Zhu, Yuan Li, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Inference Replication at Edges via Combinatorial Multi-Armed Bandit",
+    "vol": "129",
+    "num": "",
+    "start_page": "102636",
+    "end_page": "",
+    "year": "2022",
+    "doi": "10.1016/J.SYSARC.2022.102636",
+    "urls": [
+      "https://doi.org/10.1016/j.sysarc.2022.102636"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 45,
+    "venue": "IEEE/ACM Trans. Netw.",
+    "authors": "Sheng Zhang, Can Wang, Yibo Jin, Jie Wu, Zhuzhong Qian, Mingjun Xiao, Sanglu Lu",
+    "title": "Adaptive Configuration Selection and Bandwidth Allocation for Edge-Based Video Analytics",
+    "vol": "30",
+    "num": "1",
+    "start_page": "285",
+    "end_page": "298",
+    "year": "2022",
+    "doi": "10.1109/TNET.2021.3106937",
+    "urls": [
+      "https://doi.org/10.1109/TNET.2021.3106937"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 44,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Yibo Jin, Zhuzhong Qian, Song Guo, Sheng Zhang, Lei Jiao, Sanglu Lu",
+    "title": "$Run$ runData: Re-Distributing Data via Piggybacking for Geo-Distributed Data Analytics Over Edges",
+    "vol": "33",
+    "num": "1",
+    "start_page": "40",
+    "end_page": "55",
+    "year": "2022",
+    "doi": "10.1109/TPDS.2021.3086274",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2021.3086274"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 43,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Zhi Ma, Sheng Zhang, Zhiqi Chen, Tao Han, Zhuzhong Qian, Mingjun Xiao, Ning Chen, Jie Wu, Sanglu Lu",
+    "title": "Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing",
+    "vol": "33",
+    "num": "5",
+    "start_page": "1185",
+    "end_page": "1198",
+    "year": "2022",
+    "doi": "10.1109/TPDS.2021.3105325",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2021.3105325"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 42,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Yu Chen, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Jidong Ge, Sanglu Lu",
+    "title": "LOCUS: User-Perceived Delay-Aware Service Placement and User Allocation in MEC Environment",
+    "vol": "33",
+    "num": "7",
+    "start_page": "1581",
+    "end_page": "1592",
+    "year": "2022",
+    "doi": "10.1109/TPDS.2021.3119948",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2021.3119948"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 101,
+    "venue": "IEEE International Conference on Communications, ICC 2022, Seoul, Korea, May 16-20, 2022",
+    "authors": "Yu Chen, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Sanglu Lu",
+    "title": "Multi-Server Multi-User Game at Edges for Heterogeneous Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "841",
+    "end_page": "846",
+    "year": "2022",
+    "doi": "10.1109/ICC45855.2022.9839250",
+    "urls": [
+      "https://doi.org/10.1109/ICC45855.2022.9839250"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 100,
+    "venue": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications, London, United Kingdom, May 2-5, 2022",
+    "authors": "Yu Chen, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Ning Chen, Zhi Ma",
+    "title": "Learning for Crowdsourcing: Online Dispatch for Video Analytics With Guarantee",
+    "vol": "",
+    "num": "",
+    "start_page": "1908",
+    "end_page": "1917",
+    "year": "2022",
+    "doi": "10.1109/INFOCOM48880.2022.9796960",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM48880.2022.9796960"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 99,
+    "venue": "IEEE International Performance, Computing, and Communications Conference, IPCCC 2022, Austin, TX, USA, November 11-13, 2022",
+    "authors": "Kefeng Wu, Chunlei Xu, Mingming Zhang, Xiongfeng Hu, Yibo Jin, Zhuzhong Qian",
+    "title": "RCM: Residue-Aware Consolidation for Heterogeneous MLaaS Cluster",
+    "vol": "",
+    "num": "",
+    "start_page": "24",
+    "end_page": "31",
+    "year": "2022",
+    "doi": "10.1109/IPCCC55026.2022.9894301",
+    "urls": [
+      "https://doi.org/10.1109/IPCCC55026.2022.9894301"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 98,
+    "venue": "30th IEEE/ACM International Symposium on Quality of Service, IWQoS 2022, Oslo, Norway, June 10-12, 2022",
+    "authors": "Zhiqi Chen, Sheng Zhang, Zhi Ma, Shuai Zhang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Sanglu Lu",
+    "title": "An Online Approach for DNN Model Caching and Processor Allocation in Edge Computing",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2022",
+    "doi": "10.1109/IWQOS54832.2022.9812874",
+    "urls": [
+      "https://doi.org/10.1109/IWQoS54832.2022.9812874"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 97,
+    "venue": "18th International Conference on Mobility, Sensing and Networking, MSN 2022, Guangzhou, China, December 14-16, 2022",
+    "authors": "Xiongfeng Hu, Yibo Jin, Kefeng Wu, Zhuzhong Qian, Sanglu Lu",
+    "title": "User-Perceived QoE Adaptation for Accelerated Playback in Mobile Video Streaming",
+    "vol": "",
+    "num": "",
+    "start_page": "126",
+    "end_page": "133",
+    "year": "2022",
+    "doi": "10.1109/MSN57253.2022.00033",
+    "urls": [
+      "https://doi.org/10.1109/MSN57253.2022.00033"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 96,
+    "venue": "18th International Conference on Mobility, Sensing and Networking, MSN 2022, Guangzhou, China, December 14-16, 2022",
+    "authors": "Shengjie Wei, Jiayi Li, Tuo Cao, Sheng Zhang, Zhuzhong Qian",
+    "title": "Towards Energy-Efficient Container Data Center: An Online Migratability-Aware Orchestrator",
+    "vol": "",
+    "num": "",
+    "start_page": "601",
+    "end_page": "608",
+    "year": "2022",
+    "doi": "10.1109/MSN57253.2022.00100",
+    "urls": [
+      "https://doi.org/10.1109/MSN57253.2022.00100"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 95,
+    "venue": "19th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2022, Stockholm, Sweden, September 20-23, 2022",
+    "authors": "Suwei Xu, Yibo Jin, Zhuzhong Qian, Sheng Zhang, Ming Zhao, Zhenjie Lin, Qiang Lin, Liming Wang",
+    "title": "Energy-Efficient Federated Learning via Stabilization-Aware on-Device Update Scaling",
+    "vol": "",
+    "num": "",
+    "start_page": "190",
+    "end_page": "198",
+    "year": "2022",
+    "doi": "10.1109/SECON55815.2022.9918541",
+    "urls": [
+      "https://doi.org/10.1109/SECON55815.2022.9918541"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 94,
+    "venue": "19th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2022, Stockholm, Sweden, September 20-23, 2022",
+    "authors": "Yuting Yan, Yibo Jin, Sheng Zhang, Fangwen Cheng, Zhuzhong Qian, Sanglu Lu",
+    "title": "Focus! Provisioning Attention-Aware Detection for Real-Time on-Device Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "271",
+    "end_page": "279",
+    "year": "2022",
+    "doi": "10.1109/SECON55815.2022.9918169",
+    "urls": [
+      "https://doi.org/10.1109/SECON55815.2022.9918169"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 41,
+    "venue": "Comput. Networks",
+    "authors": "Ning Chen, Sheng Zhang, Jie Wu, Zhuzhong Qian, Sanglu Lu",
+    "title": "Learning Scheduling Bursty Requests in Mobile Edge Computing Using DeepLoad",
+    "vol": "184",
+    "num": "",
+    "start_page": "107655",
+    "end_page": "",
+    "year": "2021",
+    "doi": "10.1016/J.COMNET.2020.107655",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2020.107655"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 40,
+    "venue": "Comput. Networks",
+    "authors": "Ning Chen, Sheng Zhang, Siyi Quan, Zhi Ma, Zhuzhong Qian, Sanglu Lu",
+    "title": "VCMaker: Content-Aware Configuration Adaptation for Video Streaming and Analysis in Live Augmented Reality",
+    "vol": "200",
+    "num": "",
+    "start_page": "108513",
+    "end_page": "",
+    "year": "2021",
+    "doi": "10.1016/J.COMNET.2021.108513",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2021.108513"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 39,
+    "venue": "IEEE J. Sel. Areas Commun.",
+    "authors": "Yibo Jin, Lei Jiao, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Budget-Aware Online Control of Edge Federated Learning on Streaming Data With Stochastic Inputs",
+    "vol": "39",
+    "num": "12",
+    "start_page": "3704",
+    "end_page": "3722",
+    "year": "2021",
+    "doi": "10.1109/JSAC.2021.3118421",
+    "urls": [
+      "https://doi.org/10.1109/JSAC.2021.3118421"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 38,
+    "venue": "Mob. Networks Appl.",
+    "authors": "Muzhou Xiong, Lin Gu, Haixin Liu, Deze Zeng, Hong Yao, Zhuzhong Qian",
+    "title": "A Network Calculus Based Delay and Backlog Analysis for Cloud Radio Access Networks",
+    "vol": "26",
+    "num": "3",
+    "start_page": "1172",
+    "end_page": "1181",
+    "year": "2021",
+    "doi": "10.1007/S11036-019-01349-W",
+    "urls": [
+      "https://doi.org/10.1007/s11036-019-01349-w",
+      "https://www.wikidata.org/entity/Q112879550"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 37,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Ning Chen, Siyi Quan, Sheng Zhang, Zhuzhong Qian, Yibo Jin, Jie Wu, Wenzhong Li, Sanglu Lu",
+    "title": "Cuttlefish: Neural Configuration Adaptation for Video Analysis in Live Augmented Reality",
+    "vol": "32",
+    "num": "4",
+    "start_page": "830",
+    "end_page": "841",
+    "year": "2021",
+    "doi": "10.1109/TPDS.2020.3035044",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2020.3035044"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 36,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Shuai Zhang, Sheng Zhang, Zhuzhong Qian, Jie Wu, Yibo Jin, Sanglu Lu",
+    "title": "DeepSlicing: Collaborative and Adaptive CNN Inference With Low Latency",
+    "vol": "32",
+    "num": "9",
+    "start_page": "2175",
+    "end_page": "2187",
+    "year": "2021",
+    "doi": "10.1109/TPDS.2021.3058532",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2021.3058532"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 93,
+    "venue": "14th IEEE International Conference on Cloud Computing, CLOUD 2021, Chicago, IL, USA, September 5-10, 2021",
+    "authors": "Hao Li, Haitao Huang, Zhuzhong Qian",
+    "title": "Latency-Aware Batch Task Offloading for Vehicular Cloud: Maximizing Submodular Bandit",
+    "vol": "",
+    "num": "",
+    "start_page": "584",
+    "end_page": "593",
+    "year": "2021",
+    "doi": "10.1109/CLOUD53861.2021.00076",
+    "urls": [
+      "https://doi.org/10.1109/CLOUD53861.2021.00076"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 92,
+    "venue": "27th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2021, Beijing, China, December 14-16, 2021",
+    "authors": "Yitong Zhou, Bowen Peng, Jingmian Wang, Weiwei Miao, Zeng Zeng, Yibo Jin, Sheng Zhang, Zhuzhong Qian",
+    "title": "TRAN: Task Replication With Guarantee via Multi-Armed Bandit",
+    "vol": "",
+    "num": "",
+    "start_page": "340",
+    "end_page": "347",
+    "year": "2021",
+    "doi": "10.1109/ICPADS53394.2021.00048",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS53394.2021.00048"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 91,
+    "venue": "40th IEEE Conference on Computer Communications, INFOCOM 2021, Vancouver, BC, Canada, May 10-13, 2021",
+    "authors": "Yibo Jin, Lei Jiao, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Learning for Learning: Predictive Online Control of Federated Learning With Edge Provisioning",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2021",
+    "doi": "10.1109/INFOCOM42981.2021.9488733",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM42981.2021.9488733"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 90,
+    "venue": "40th IEEE Conference on Computer Communications, INFOCOM 2021, Vancouver, BC, Canada, May 10-13, 2021",
+    "authors": "Mengxi Hanyao, Yibo Jin, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Edge-Assisted Online on-Device Object Detection for Real-Time Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2021",
+    "doi": "10.1109/INFOCOM42981.2021.9488741",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM42981.2021.9488741"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 89,
+    "venue": "2021 IEEE Conference on Computer Communications Workshops, INFOCOM Workshops 2021, Vancouver, BC, Canada, May 10-13, 2021",
+    "authors": "Hao Li, Xin Li, Zhuzhong Qian, Xiaolin Qin",
+    "title": "Resource-Aware Service Function Chain Deployment in Cloud-Edge Environment",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2021",
+    "doi": "10.1109/INFOCOMWKSHPS51825.2021.9484555",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484555"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 88,
+    "venue": "29th IEEE/ACM International Symposium on Quality of Service, IWQOS 2021, Tokyo, Japan, June 25-28, 2021",
+    "authors": "Kun Wu, Yibo Jin, Weiwei Miao, Zeng Zeng, Zhuzhong Qian, Jingmian Wang, Mingxian Zhou, Tuo Cao",
+    "title": "Soudain: Online Adaptive Profile Configuration for Real-Time Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2021",
+    "doi": "10.1109/IWQOS52092.2021.9521328",
+    "urls": [
+      "https://doi.org/10.1109/IWQOS52092.2021.9521328"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 87,
+    "venue": "22nd IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks, WoWMoM 2021, Pisa, Italy, June 7-11, 2021",
+    "authors": "Tuo Cao, Zhuzhong Qian, Kun Wu, Mingxian Zhou, Yibo Jin",
+    "title": "Service Placement and Bandwidth Allocation for MEC-enabled Mobile Cloud Gaming",
+    "vol": "",
+    "num": "",
+    "start_page": "179",
+    "end_page": "188",
+    "year": "2021",
+    "doi": "10.1109/WOWMOM51794.2021.00031",
+    "urls": [
+      "https://doi.org/10.1109/WoWMoM51794.2021.00031"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 35,
+    "venue": "IEEE Access",
+    "authors": "Yuting Yan, Songhua Liu, Yibo Jin, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Risk Minimization Against Transmission Failures of Federated Learning in Mobile Edge Networks",
+    "vol": "8",
+    "num": "",
+    "start_page": "98205",
+    "end_page": "98217",
+    "year": "2020",
+    "doi": "10.1109/ACCESS.2020.2996307",
+    "urls": [
+      "https://doi.org/10.1109/ACCESS.2020.2996307"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 34,
+    "venue": "CCF Trans. Netw.",
+    "authors": "Zhiqi Chen, Sheng Zhang, Zhuzhong Qian, Can Wang, Mingjun Xiao, Jie Wu, Sanglu Lu",
+    "title": "Sum of Squares: A New Metric for NFV Service Chain Placement in Edge Computing Environments and Efficient Heuristic Algorithms",
+    "vol": "3",
+    "num": "2",
+    "start_page": "140",
+    "end_page": "153",
+    "year": "2020",
+    "doi": "10.1007/S42045-020-00030-1",
+    "urls": [
+      "https://doi.org/10.1007/s42045-020-00030-1"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 33,
+    "venue": "Comput. Networks",
+    "authors": "An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Online VNF Chain Deployment on Resource-Limited Edges by Exploiting Peer Edge Devices",
+    "vol": "170",
+    "num": "",
+    "start_page": "107069",
+    "end_page": "",
+    "year": "2020",
+    "doi": "10.1016/J.COMNET.2019.107069",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2019.107069",
+      "https://www.wikidata.org/entity/Q126523897"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 32,
+    "venue": "Int. J. Ad Hoc Ubiquitous Comput.",
+    "authors": "Songyun Wang, Jiabin Yuan, Xiaoda Zhang, Zhuzhong Qian, Xin Li, Ilsun You",
+    "title": "QoS-aware Flow Scheduling for Energy-Efficient Cloud Data Centre Network",
+    "vol": "34",
+    "num": "3",
+    "start_page": "141",
+    "end_page": "153",
+    "year": "2020",
+    "doi": "10.1504/IJAHUC.2020.108422",
+    "urls": [
+      "https://doi.org/10.1504/IJAHUC.2020.108422"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 31,
+    "venue": "IEEE/ACM Trans. Netw.",
+    "authors": "Can Wang, Sheng Zhang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Baoliu Ye, Sanglu Lu",
+    "title": "Joint Server Assignment and Resource Management for Edge-Based MAR System",
+    "vol": "28",
+    "num": "5",
+    "start_page": "2378",
+    "end_page": "2391",
+    "year": "2020",
+    "doi": "10.1109/TNET.2020.3012410",
+    "urls": [
+      "https://doi.org/10.1109/TNET.2020.3012410"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 86,
+    "venue": "2020 IEEE International Conference on Communications, ICC 2020, Dublin, Ireland, June 7-11, 2020",
+    "authors": "An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "RouteStitch: Control Traffic Minimization in SDN by Stitching Routes",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2020",
+    "doi": "10.1109/ICC40277.2020.9148929",
+    "urls": [
+      "https://doi.org/10.1109/ICC40277.2020.9148929"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 85,
+    "venue": "40th IEEE International Conference on Distributed Computing Systems, ICDCS 2020, Singapore, November 29 - December 1, 2020",
+    "authors": "Yibo Jin, Lei Jiao, Zhuzhong Qian, Sheng Zhang, Sanglu Lu, Xiaoliang Wang",
+    "title": "Resource-Efficient and Convergence-Preserving Online Participant Selection in Federated Learning",
+    "vol": "",
+    "num": "",
+    "start_page": "606",
+    "end_page": "616",
+    "year": "2020",
+    "doi": "10.1109/ICDCS47774.2020.00049",
+    "urls": [
+      "https://doi.org/10.1109/ICDCS47774.2020.00049"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 84,
+    "venue": "40th IEEE International Conference on Distributed Computing Systems, ICDCS 2020, Singapore, November 29 - December 1, 2020",
+    "authors": "Sheng Zhang, Yu Liang, Zhuzhong Qian, Mingjun Xiao, Jidong Ge, Jie Wu, Sanglu Lu",
+    "title": "Overlapped Mobile Charging for Sensor Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "1213",
+    "end_page": "1214",
+    "year": "2020",
+    "doi": "10.1109/ICDCS47774.2020.00158",
+    "urls": [
+      "https://doi.org/10.1109/ICDCS47774.2020.00158"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 83,
+    "venue": "26th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2020, Hong Kong, December 2-4, 2020",
+    "authors": "Yu Chen, Sheng Zhang, Mingjun Xiao, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "Multi-User Edge-Assisted Video Analytics Task Offloading Game Based on Deep Reinforcement Learning",
+    "vol": "",
+    "num": "",
+    "start_page": "266",
+    "end_page": "273",
+    "year": "2020",
+    "doi": "10.1109/ICPADS51040.2020.00044",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS51040.2020.00044"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 82,
+    "venue": "39th IEEE Conference on Computer Communications, INFOCOM 2020, Toronto, ON, Canada, July 6-9, 2020",
+    "authors": "Can Wang, Sheng Zhang, Yu Chen, Zhuzhong Qian, Jie Wu, Mingjun Xiao",
+    "title": "Joint Configuration Adaptation and Bandwidth Allocation for Edge-Based Real-Time Video Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "257",
+    "end_page": "266",
+    "year": "2020",
+    "doi": "10.1109/INFOCOM41043.2020.9155524",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM41043.2020.9155524"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 81,
+    "venue": "28th IEEE/ACM International Symposium on Quality of Service, IWQoS 2020, Hangzhou, China, June 15-17, 2020",
+    "authors": "Tiantian Wang, Zhuzhong Qian, Lei Jiao, Xin Li, Sanglu Lu",
+    "title": "GeoClone: Online Task Replication and Scheduling for Geo-Distributed Analytics Under Uncertainties",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2020",
+    "doi": "10.1109/IWQOS49365.2020.9212862",
+    "urls": [
+      "https://doi.org/10.1109/IWQoS49365.2020.9212862"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 80,
+    "venue": "17th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2020, Virtual Event, Italy, June 22-25, 2020",
+    "authors": "Yibo Jin, Lei Jiao, Zhuzhong Qian, Sheng Zhang, Ning Chen, Sanglu Lu, Xiaoliang Wang",
+    "title": "Provisioning Edge Inference as a Service via Online Learning",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "9",
+    "year": "2020",
+    "doi": "10.1109/SECON48991.2020.9158425",
+    "urls": [
+      "https://doi.org/10.1109/SECON48991.2020.9158425"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 79,
+    "venue": "Security, Privacy, and Anonymity in Computation, Communication, and Storage - SpaCCS 2020 International Workshops, Nanjing, China, December 18-20, 2020, Proceedings",
+    "authors": "Lei Wei, Weiwei Miao, Zeng Zeng, Hesheng Sun, Zhuzhong Qian",
+    "title": "EDC: An Edge-Oriented Dynamic Resource Configuration Strategy",
+    "vol": "",
+    "num": "",
+    "start_page": "3",
+    "end_page": "14",
+    "year": "2020",
+    "doi": "10.1007/978-3-030-68884-4_1",
+    "urls": [
+      "https://doi.org/10.1007/978-3-030-68884-4_1"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 30,
+    "venue": "IEEE Access",
+    "authors": "Songyun Wang, Jiabin Yuan, Xin Li, Zhuzhong Qian, Fabio Arena, Ilsun You",
+    "title": "Active Data Replica Recovery for Quality-Assurance Big Data Analysis in IC-IoT",
+    "vol": "7",
+    "num": "",
+    "start_page": "106997",
+    "end_page": "107005",
+    "year": "2019",
+    "doi": "10.1109/ACCESS.2019.2932259",
+    "urls": [
+      "https://doi.org/10.1109/ACCESS.2019.2932259"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 29,
+    "venue": "CCF Trans. Netw.",
+    "authors": "Shuai Zhang, Sheng Zhang, Zhuzhong Qian, Xiaoda Zhang, Mingjun Xiao, Jie Wu, Jidong Ge, Xiaoliang Wang",
+    "title": "Efficient Scheduling for Multi-Stage Coflows",
+    "vol": "2",
+    "num": "2",
+    "start_page": "83",
+    "end_page": "97",
+    "year": "2019",
+    "doi": "10.1007/S42045-019-00018-6",
+    "urls": [
+      "https://doi.org/10.1007/s42045-019-00018-6",
+      "https://www.wikidata.org/entity/Q127703806"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 28,
+    "venue": "CCF Trans. Netw.",
+    "authors": "Jian Wang, Xuewei Zhang, Xiaoliang Wang, Sheng Zhang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Joint Virtual Middlebox and Application Placement With Bandwidth Guarantees in Multi-Tenant Datacenter",
+    "vol": "2",
+    "num": "3-4",
+    "start_page": "172",
+    "end_page": "187",
+    "year": "2019",
+    "doi": "10.1007/S42045-019-00026-6",
+    "urls": [
+      "https://doi.org/10.1007/s42045-019-00026-6",
+      "https://www.wikidata.org/entity/Q126561033"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 27,
+    "venue": "Comput. Networks",
+    "authors": "An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian, Sanglu Lu",
+    "title": "<i>Dual</I>: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic",
+    "vol": "162",
+    "num": "",
+    "start_page": "",
+    "end_page": "",
+    "year": "2019",
+    "doi": "10.1016/J.COMNET.2019.106868",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2019.106868"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 26,
+    "venue": "IEEE Trans. Computers",
+    "authors": "Xiaoda Zhang, Zhuzhong Qian, Sheng Zhang, Xiangbo Li, Xiaoliang Wang, Sanglu Lu",
+    "title": "Semi-Clairvoyant Scheduling in Data Analytics Systems",
+    "vol": "68",
+    "num": "9",
+    "start_page": "1376",
+    "end_page": "1389",
+    "year": "2019",
+    "doi": "10.1109/TC.2019.2906193",
+    "urls": [
+      "https://doi.org/10.1109/TC.2019.2906193",
+      "https://www.wikidata.org/entity/Q128128577"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 25,
+    "venue": "ACM Trans. Sens. Networks",
+    "authors": "Zhi Ma, Sheng Zhang, Jie Wu, Zhuzhong Qian, Yanchao Zhao, Sanglu Lu",
+    "title": "Fast Charging Scheduling Under the Nonlinear Superposition Model With Adjustable Phases",
+    "vol": "15",
+    "num": "4",
+    "start_page": "48:1",
+    "end_page": "48:23",
+    "year": "2019",
+    "doi": "10.1145/3356342",
+    "urls": [
+      "https://doi.org/10.1145/3356342",
+      "https://www.wikidata.org/entity/Q130954569"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 78,
+    "venue": "25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, Tianjin, China, December 4-6, 2019",
+    "authors": "Xin Li, Zhuzhong Qian, Jianjun Qiu, Xiaolin Qin, Jie Wu",
+    "title": "Labeling Scheduler: A Flexible Labeling-Based Jointly Scheduling Approach for Big Data Analysis",
+    "vol": "",
+    "num": "",
+    "start_page": "61",
+    "end_page": "68",
+    "year": "2019",
+    "doi": "10.1109/ICPADS47876.2019.00017",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS47876.2019.00017"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 77,
+    "venue": "25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, Tianjin, China, December 4-6, 2019",
+    "authors": "Ning Chen, Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "When Learning Joins Edge: Real-Time Proportional Computation Offloading via Deep Reinforcement Learning",
+    "vol": "",
+    "num": "",
+    "start_page": "414",
+    "end_page": "421",
+    "year": "2019",
+    "doi": "10.1109/ICPADS47876.2019.00066",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS47876.2019.00066"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 76,
+    "venue": "2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking, ISPA/BDCloud/SocialCom/SustainCom 2019, Xiamen, China, December 16-18, 2019",
+    "authors": "Yefei Li, Yibo Jin, Haiyang Chen, Wenchao Xi, Mingtao Ji, Sheng Zhang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Run Data Run! Re-Distributing Data via Piggybacking for Geo-Distributed Data Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "356",
+    "end_page": "363",
+    "year": "2019",
+    "doi": "10.1109/ISPA-BDCLOUD-SUSTAINCOM-SOCIALCOM48970.2019.00059",
+    "urls": [
+      "https://doi.org/10.1109/ISPA-BDCloud-SustainCom-SocialCom48970.2019.00059"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 75,
+    "venue": "2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking, ISPA/BDCloud/SocialCom/SustainCom 2019, Xiamen, China, December 16-18, 2019",
+    "authors": "Zhuzhong Qian, Yuan Gao, Mingtao Ji, Hui Peng, Peng Chen, Yibo Jin, Sanglu Lu",
+    "title": "Workload-Aware Scheduling for Data Analytics Upon Heterogeneous Storage",
+    "vol": "",
+    "num": "",
+    "start_page": "580",
+    "end_page": "587",
+    "year": "2019",
+    "doi": "10.1109/ISPA-BDCLOUD-SUSTAINCOM-SOCIALCOM48970.2019.00088",
+    "urls": [
+      "https://doi.org/10.1109/ISPA-BDCloud-SustainCom-SocialCom48970.2019.00088"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 74,
+    "venue": "Security, Privacy, and Anonymity in Computation, Communication, and Storage - SpaCCS 2019 International Workshops, Atlanta, GA, USA, July 14-17, 2019, Proceedings",
+    "authors": "Linfeng Xie, Yang Dai, Yongjin Zhu, Xin Li, Xiangbo Li, Zhuzhong Qian",
+    "title": "Cost-Efficient Task Scheduling for Geo-Distributed Data Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "95",
+    "end_page": "104",
+    "year": "2019",
+    "doi": "10.1007/978-3-030-24900-7_8",
+    "urls": [
+      "https://doi.org/10.1007/978-3-030-24900-7_8"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 24,
+    "venue": "J. Parallel Distributed Comput.",
+    "authors": "Ming Tao, Kaoru Ota, Mianxiong Dong, Zhuzhong Qian",
+    "title": "AccessAuth: Capacity-Aware Security Access Authentication in Federated-IoT-Enabled V2G Networks",
+    "vol": "118",
+    "num": "Part",
+    "start_page": "107",
+    "end_page": "117",
+    "year": "2018",
+    "doi": "10.1016/J.JPDC.2017.09.004",
+    "urls": [
+      "https://doi.org/10.1016/j.jpdc.2017.09.004"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 23,
+    "venue": "J. Supercomput.",
+    "authors": "Gangyi Luo, Zhuzhong Qian, Mianxiong Dong, Kaoru Ota, Sanglu Lu",
+    "title": "Improving Performance by Network-Aware Virtual Machine Clustering and Consolidation",
+    "vol": "74",
+    "num": "11",
+    "start_page": "5846",
+    "end_page": "5864",
+    "year": "2018",
+    "doi": "10.1007/S11227-017-2104-9",
+    "urls": [
+      "https://doi.org/10.1007/s11227-017-2104-9"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 22,
+    "venue": "IEEE Trans. Mob. Comput.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Fanyu Kong, Sanglu Lu",
+    "title": "Wireless Charger Placement and Power Allocation for Maximizing Charging Quality",
+    "vol": "17",
+    "num": "6",
+    "start_page": "1483",
+    "end_page": "1496",
+    "year": "2018",
+    "doi": "10.1109/TMC.2017.2771425",
+    "urls": [
+      "https://doi.org/10.1109/TMC.2017.2771425",
+      "http://doi.ieeecomputersociety.org/10.1109/TMC.2017.2771425"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 73,
+    "venue": "Proceedings of the 2nd Asia-Pacific Workshop on Networking, APNet 2018, Beijing, China, August 02-03, 2018",
+    "authors": "Haonan Qiu, Xiaoliang Wang, Tianchen Jin, Zhuzhong Qian, Baoliu Ye, Bin Tang, Wenzhong Li, Sanglu Lu",
+    "title": "Toward Effective and Fair RDMA Resource Sharing",
+    "vol": "",
+    "num": "",
+    "start_page": "8",
+    "end_page": "14",
+    "year": "2018",
+    "doi": "10.1145/3232565.3232636",
+    "urls": [
+      "https://doi.org/10.1145/3232565.3232636"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 72,
+    "venue": "IEEE Global Communications Conference, GLOBECOM 2018, Abu Dhabi, United Arab Emirates, December 9-13, 2018",
+    "authors": "Zhiqi Chen, Sheng Zhang, Can Wang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Imad Jawhar",
+    "title": "A Novel Algorithm for NFV Chain Placement in Edge Computing Environments",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2018",
+    "doi": "10.1109/GLOCOM.2018.8647371",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2018.8647371"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 71,
+    "venue": "IEEE Global Communications Conference, GLOBECOM 2018, Abu Dhabi, United Arab Emirates, December 9-13, 2018",
+    "authors": "Shuai Zhang, Sheng Zhang, Xiaoda Zhang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Jidong Ge, Xiaoliang Wang",
+    "title": "Far-Sighted Multi-Stage Awasre Coflow Scheduling",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "7",
+    "year": "2018",
+    "doi": "10.1109/GLOCOM.2018.8647855",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2018.8647855"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 70,
+    "venue": "IEEE 19th International Conference on High Performance Switching and Routing, HPSR 2018, Bucharest, Romania, June 18-20, 2018",
+    "authors": "Xiaoliang Wang, Cam-Tu Nguyen, Baoliu Ye, Zhuzhong Qian, Bin Tang, Wenzhong Li, Sanglu Lu",
+    "title": "Nem: Toward Fine-Grained Load Balancing Through RNIC EC Offloading",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2018",
+    "doi": "10.1109/HPSR.2018.8850765",
+    "urls": [
+      "https://doi.org/10.1109/HPSR.2018.8850765"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 69,
+    "venue": "Algorithms and Architectures for Parallel Processing - 18th International Conference, ICA3PP 2018, Guangzhou, China, November 15-17, 2018, Proceedings, Part II",
+    "authors": "Songyun Wang, Xin Li, Zhuzhong Qian, Jiabin Yuan",
+    "title": "Distancer: A Host-Based Distributed Adaptive Load Balancer for Datacenter Traffic",
+    "vol": "",
+    "num": "",
+    "start_page": "567",
+    "end_page": "581",
+    "year": "2018",
+    "doi": "10.1007/978-3-030-05054-2_43",
+    "urls": [
+      "https://doi.org/10.1007/978-3-030-05054-2_43"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 68,
+    "venue": "Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018",
+    "authors": "Yibo Jin, Zhuzhong Qian, Song Guo, Sheng Zhang, Xiaoliang Wang, Sanglu Lu",
+    "title": "Ran-Gjs: Orchestrating Data Analytics for Heterogeneous Geo-Distributed Edges",
+    "vol": "",
+    "num": "",
+    "start_page": "29:1",
+    "end_page": "29:10",
+    "year": "2018",
+    "doi": "10.1145/3225058.3225059",
+    "urls": [
+      "https://doi.org/10.1145/3225058.3225059"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 67,
+    "venue": "2018 IEEE Conference on Computer Communications, INFOCOM 2018, Honolulu, HI, USA, April 16-19, 2018",
+    "authors": "Xiaoda Zhang, Zhuzhong Qian, Sheng Zhang, Xiangbo Li, Xiaoliang Wang, Sanglu Lu",
+    "title": "COBRA: Toward Provably Efficient Semi-Clairvoyant Scheduling in Data Analytics Systems",
+    "vol": "",
+    "num": "",
+    "start_page": "513",
+    "end_page": "521",
+    "year": "2018",
+    "doi": "10.1109/INFOCOM.2018.8485981",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM.2018.8485981"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 66,
+    "venue": "26th IEEE/ACM International Symposium on Quality of Service, IWQoS 2018, Banff, AB, Canada, June 4-6, 2018",
+    "authors": "Rui Zhang, Sheng Zhang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Jidong Ge, Sanglu Lu",
+    "title": "Collaborative Interactive Wireless Charging in a Cyclic Mobispace",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2018",
+    "doi": "10.1109/IWQOS.2018.8624149",
+    "urls": [
+      "https://doi.org/10.1109/IWQoS.2018.8624149"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 65,
+    "venue": "2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation, SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018, Guangzhou, China, October 8-12, 2018",
+    "authors": "Shengli Pan, Chun Liu, Deze Zeng, Hong Yao, Zhuzhong Qian",
+    "title": "Fine-Grained Task-Dependency Offloading in Mobile Cloud Computing",
+    "vol": "",
+    "num": "",
+    "start_page": "977",
+    "end_page": "982",
+    "year": "2018",
+    "doi": "10.1109/SMARTWORLD.2018.00173",
+    "urls": [
+      "https://doi.org/10.1109/SmartWorld.2018.00173"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 64,
+    "venue": "2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation, SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018, Guangzhou, China, October 8-12, 2018",
+    "authors": "Deze Zeng, Lin Gu, Yunsong Chen, Shengli Pan, Zhuzhong Qian",
+    "title": "Cost Efficient State-Aware Function Placement and Flow Scheduling for NFV Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "1352",
+    "end_page": "1357",
+    "year": "2018",
+    "doi": "10.1109/SMARTWORLD.2018.00235",
+    "urls": [
+      "https://doi.org/10.1109/SmartWorld.2018.00235"
+    ]
+  },
+  {
+    "type": "I",
+    "no": 3,
+    "venue": "CoRR",
+    "authors": "Xiaoda Zhang, Zhuzhong Qian, Sheng Zhang, Yize Li, Xiangbo Li, Xiaoliang Wang, Sanglu Lu",
+    "title": "Towards Reliable (And Efficient) Job Executions in a Practical Geo-Distributed Data Analytics System",
+    "vol": "abs/1802.00245",
+    "num": "",
+    "start_page": "",
+    "end_page": "",
+    "year": "2018",
+    "doi": "",
+    "urls": [
+      "http://arxiv.org/abs/1802.00245"
+    ]
+  },
+  {
+    "type": "I",
+    "no": 2,
+    "venue": "CoRR",
+    "authors": "Zhi Wang, Xiaoliang Wang, Zhuzhong Qian, Baoliu Ye, Sanglu Lu",
+    "title": "RDMAvisor: Toward Deploying Scalable and Simple RDMA as a Service in Datacenters",
+    "vol": "abs/1802.01870",
+    "num": "",
+    "start_page": "",
+    "end_page": "",
+    "year": "2018",
+    "doi": "",
+    "urls": [
+      "http://arxiv.org/abs/1802.01870"
+    ]
+  },
+  {
+    "type": "I",
+    "no": 1,
+    "venue": "CoRR",
+    "authors": "Tiantian Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "PingAn: An Insurance Scheme for Job Acceleration in Geo-Distributed Big Data Analytics System",
+    "vol": "abs/1804.02817",
+    "num": "",
+    "start_page": "",
+    "end_page": "",
+    "year": "2018",
+    "doi": "",
+    "urls": [
+      "http://arxiv.org/abs/1804.02817"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 21,
+    "venue": "IEEE Access",
+    "authors": "Songyun Wang, Zhuzhong Qian, Jiabin Yuan, Ilsun You",
+    "title": "A DVFS Based Energy-Efficient Tasks Scheduling in a Data Center",
+    "vol": "5",
+    "num": "",
+    "start_page": "13090",
+    "end_page": "13102",
+    "year": "2017",
+    "doi": "10.1109/ACCESS.2017.2724598",
+    "urls": [
+      "https://doi.org/10.1109/ACCESS.2017.2724598"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 20,
+    "venue": "J. Internet Serv. Inf. Secur.",
+    "authors": "Wei Huang, Haoren Zhu, Zhuzhong Qian",
+    "title": "AutoVNF: An Automatic Resource Sharing Schema for VNF Requests",
+    "vol": "7",
+    "num": "3",
+    "start_page": "34",
+    "end_page": "47",
+    "year": "2017",
+    "doi": "10.22667/JISIS.2017.08.31.034",
+    "urls": [
+      "https://doi.org/10.22667/JISIS.2017.08.31.034"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 19,
+    "venue": "IEEE Trans. Mob. Comput.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Fanyu Kong, Sanglu Lu",
+    "title": "Optimizing Itinerary Selection and Charging Association for Mobile Chargers",
+    "vol": "16",
+    "num": "10",
+    "start_page": "2833",
+    "end_page": "2846",
+    "year": "2017",
+    "doi": "10.1109/TMC.2016.2641446",
+    "urls": [
+      "https://doi.org/10.1109/TMC.2016.2641446",
+      "http://doi.ieeecomputersociety.org/10.1109/TMC.2016.2641446"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 18,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Hao Wu, Sanglu Lu",
+    "title": "Efficient Data Center Flow Scheduling Without Starvation Using Expansion Ratio",
+    "vol": "28",
+    "num": "11",
+    "start_page": "3157",
+    "end_page": "3170",
+    "year": "2017",
+    "doi": "10.1109/TPDS.2017.2706290",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2017.2706290",
+      "http://doi.ieeecomputersociety.org/10.1109/TPDS.2017.2706290"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 63,
+    "venue": "2017 IEEE 10th International Conference on Cloud Computing (CLOUD), Honolulu, HI, USA, June 25-30, 2017",
+    "authors": "Weimin Qiu, Zhuzhong Qian, Sanglu Lu",
+    "title": "Multi-Objective Virtual Machine Consolidation",
+    "vol": "",
+    "num": "",
+    "start_page": "270",
+    "end_page": "277",
+    "year": "2017",
+    "doi": "10.1109/CLOUD.2017.42",
+    "urls": [
+      "https://doi.org/10.1109/CLOUD.2017.42",
+      "https://doi.ieeecomputersociety.org/10.1109/CLOUD.2017.42"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 62,
+    "venue": "2017 IEEE Global Communications Conference, GLOBECOM 2017, Singapore, December 4-8, 2017",
+    "authors": "Sheng Zhang, Yu Liang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Fanyu Kong, Sanglu Lu",
+    "title": "Modeling and Deploying Networklet",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2017",
+    "doi": "10.1109/GLOCOM.2017.8254450",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2017.8254450"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 61,
+    "venue": "37th IEEE International Conference on Distributed Computing Systems, ICDCS 2017, Atlanta, GA, USA, June 5-8, 2017",
+    "authors": "Sheng Zhang, Yu Liang, Zhuzhong Qian, Mingjun Xiao, Jie Wu, Fanyu Kong, Sanglu Lu",
+    "title": "Networklet: Concept and Deployment",
+    "vol": "",
+    "num": "",
+    "start_page": "2624",
+    "end_page": "2625",
+    "year": "2017",
+    "doi": "10.1109/ICDCS.2017.9",
+    "urls": [
+      "https://doi.org/10.1109/ICDCS.2017.9",
+      "https://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.9"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 60,
+    "venue": "23rd IEEE International Conference on Parallel and Distributed Systems, ICPADS 2017, Shenzhen, China, December 15-17, 2017",
+    "authors": "An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Ambula: Build Communication Lifeline of Corporations During Emergency",
+    "vol": "",
+    "num": "",
+    "start_page": "429",
+    "end_page": "436",
+    "year": "2017",
+    "doi": "10.1109/ICPADS.2017.00063",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS.2017.00063",
+      "https://doi.ieeecomputersociety.org/10.1109/ICPADS.2017.00063"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 59,
+    "venue": "23rd IEEE International Conference on Parallel and Distributed Systems, ICPADS 2017, Shenzhen, China, December 15-17, 2017",
+    "authors": "Xuewei Zhang, Xiaoliang Wang, Cam-Tu Nguyen, Jian Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Virtual Middleboxes Network Placement Algorithm in Multi-Tenant Datacenter Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "445",
+    "end_page": "452",
+    "year": "2017",
+    "doi": "10.1109/ICPADS.2017.00065",
+    "urls": [
+      "https://doi.org/10.1109/ICPADS.2017.00065",
+      "https://doi.ieeecomputersociety.org/10.1109/ICPADS.2017.00065"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 58,
+    "venue": "36th IEEE International Performance Computing and Communications Conference, IPCCC 2017, San Diego, CA, USA, December 10-12, 2017",
+    "authors": "Xin Li, Jie Wu, Zhuzhong Qian, Shaojie Tang, Sanglu Lu",
+    "title": "Towards Location-Aware Joint Job and Data Assignment in Cloud Data Centers With NVM",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "8",
+    "year": "2017",
+    "doi": "10.1109/PCCC.2017.8280434",
+    "urls": [
+      "https://doi.org/10.1109/PCCC.2017.8280434",
+      "https://doi.ieeecomputersociety.org/10.1109/PCCC.2017.8280434"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 57,
+    "venue": "2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC), Guangzhou, China, December 12-15, 2017",
+    "authors": "Can Wang, Sheng Zhang, Huyin Zhang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Edge Cloud Capacity Allocation for Low Delay Computing on Mobile Devices",
+    "vol": "",
+    "num": "",
+    "start_page": "290",
+    "end_page": "297",
+    "year": "2017",
+    "doi": "10.1109/ISPA/IUCC.2017.00049",
+    "urls": [
+      "https://doi.org/10.1109/ISPA/IUCC.2017.00049",
+      "https://doi.ieeecomputersociety.org/10.1109/ISPA/IUCC.2017.00049"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 56,
+    "venue": "2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC), Guangzhou, China, December 12-15, 2017",
+    "authors": "Xin Zhang, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Pattern-Aware Reliable Virtual Network Function Chain Deployment",
+    "vol": "",
+    "num": "",
+    "start_page": "335",
+    "end_page": "342",
+    "year": "2017",
+    "doi": "10.1109/ISPA/IUCC.2017.00055",
+    "urls": [
+      "https://doi.org/10.1109/ISPA/IUCC.2017.00055",
+      "https://doi.ieeecomputersociety.org/10.1109/ISPA/IUCC.2017.00055"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 55,
+    "venue": "25th IEEE/ACM International Symposium on Quality of Service, IWQoS 2017, Vilanova i la Geltrú, Spain, June 14-16, 2017",
+    "authors": "Zhuzhong Qian, Kaiyuan Wen, Sheng Zhang, Xiaoliang Wang, Sanglu Lu",
+    "title": "Rethinking Transfer Optimization in a Datacenter: Integrating Load Balancing With Multipath Flow Control",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "10",
+    "year": "2017",
+    "doi": "10.1109/IWQOS.2017.7969132",
+    "urls": [
+      "https://doi.org/10.1109/IWQoS.2017.7969132"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 54,
+    "venue": "Security, Privacy, and Anonymity in Computation, Communication, and Storage - SpaCCS 2017 International Workshops, Guangzhou, China, December 12-15, 2017, Proceedings",
+    "authors": "Daoqiang Xu, Yefei Li, Ming Yin, Xin Li, Hao Li, Zhuzhong Qian",
+    "title": "A Reliable Resource Scheduling for Network Function Virtualization",
+    "vol": "",
+    "num": "",
+    "start_page": "251",
+    "end_page": "260",
+    "year": "2017",
+    "doi": "10.1007/978-3-319-72395-2_24",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-72395-2_24"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 53,
+    "venue": "Security, Privacy, and Anonymity in Computation, Communication, and Storage - SpaCCS 2017 International Workshops, Guangzhou, China, December 12-15, 2017, Proceedings",
+    "authors": "Daoqiang Xu, Yefei Li, Songyun Wang, Xin Li, Zhuzhong Qian",
+    "title": "On Global Resource Allocation in Clusters for Data Analytics",
+    "vol": "",
+    "num": "",
+    "start_page": "261",
+    "end_page": "270",
+    "year": "2017",
+    "doi": "10.1007/978-3-319-72395-2_25",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-72395-2_25"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 17,
+    "venue": "J. Comput. Sci. Technol.",
+    "authors": "Bolei Zhang, Zhuzhong Qian, Wenzhong Li, Bin Tang, Sanglu Lu, Xiaoming Fu",
+    "title": "Budget Allocation for Maximizing Viral Advertising in Social Networks",
+    "vol": "31",
+    "num": "4",
+    "start_page": "759",
+    "end_page": "775",
+    "year": "2016",
+    "doi": "10.1007/S11390-016-1661-3",
+    "urls": [
+      "https://doi.org/10.1007/s11390-016-1661-3"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 16,
+    "venue": "Sci. Program.",
+    "authors": "Wei Huang, Zhen Wang, Mianxiong Dong, Zhuzhong Qian",
+    "title": "A Two-Tier Energy-Aware Resource Management for Virtualized Cloud Computing System",
+    "vol": "2016",
+    "num": "",
+    "start_page": "4386362:1",
+    "end_page": "4386362:15",
+    "year": "2016",
+    "doi": "10.1155/2016/4386362",
+    "urls": [
+      "https://doi.org/10.1155/2016/4386362",
+      "https://www.wikidata.org/entity/Q59141483"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 15,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Zhaoyi Luo, Jie Wu, Sanglu Lu",
+    "title": "Burstiness-Aware Resource Reservation for Server Consolidation in Computing Clouds",
+    "vol": "27",
+    "num": "4",
+    "start_page": "964",
+    "end_page": "977",
+    "year": "2016",
+    "doi": "10.1109/TPDS.2015.2425403",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2015.2425403",
+      "http://doi.ieeecomputersociety.org/10.1109/TPDS.2015.2425403"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 52,
+    "venue": "36th IEEE International Conference on Distributed Computing Systems, ICDCS 2016, Nara, Japan, June 27-30, 2016",
+    "authors": "Kaiyuan Wen, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "OmniFlow: Coupling Load Balancing With Flow Control in Datacenter Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "725",
+    "end_page": "726",
+    "year": "2016",
+    "doi": "10.1109/ICDCS.2016.87",
+    "urls": [
+      "https://doi.org/10.1109/ICDCS.2016.87",
+      "https://doi.ieeecomputersociety.org/10.1109/ICDCS.2016.87"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 51,
+    "venue": "3rd International Conference on Systems and Informatics, ICSAI 2016, Shanghai, China, November 19-21, 2016",
+    "authors": "Gaopan Huang, Songyun Wang, Mingming Zhang, Yefei Li, Zhuzhong Qian, Yuan Chen, Sheng Zhang",
+    "title": "Auto Scaling Virtual Machines for Web Applications With Queueing Theory",
+    "vol": "",
+    "num": "",
+    "start_page": "433",
+    "end_page": "438",
+    "year": "2016",
+    "doi": "10.1109/ICSAI.2016.7810994",
+    "urls": [
+      "https://doi.org/10.1109/ICSAI.2016.7810994"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 50,
+    "venue": "IEEE Conference on Computer Communications Workshops, INFOCOM Workshops 2016, San Francisco, CA, USA, April 10-14, 2016",
+    "authors": "Ming Jiang, Sheng Zhang, Kangkang Wu, Yutong Li, Zhuzhong Qian, Sanglu Lu",
+    "title": "Scheduling Parallelizable Task in Self-Organized Cloudlet Using Hermes",
+    "vol": "",
+    "num": "",
+    "start_page": "1059",
+    "end_page": "1060",
+    "year": "2016",
+    "doi": "10.1109/INFCOMW.2016.7562252",
+    "urls": [
+      "https://doi.org/10.1109/INFCOMW.2016.7562252"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 49,
+    "venue": "2016 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), Chengdu, China, December 15-18, 2016",
+    "authors": "Mingming Zhang, Songyun Wang, Guoquan Yuan, Yefei Li, Zhuzhong Qian",
+    "title": "Energy-Efficient Real-Time Task Allocation in a Data Center",
+    "vol": "",
+    "num": "",
+    "start_page": "680",
+    "end_page": "687",
+    "year": "2016",
+    "doi": "10.1109/ITHINGS-GREENCOM-CPSCOM-SMARTDATA.2016.147",
+    "urls": [
+      "https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2016.147"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 48,
+    "venue": "2016 IFIP Networking Conference, Networking 2016 and Workshops, Vienna, Austria, May 17-19, 2016",
+    "authors": "Xiaoda Zhang, Zhuzhong Qian, Sheng Zhang, Kui Wu, Sanglu Lu",
+    "title": "Consolidating Flows With Implicit Deadlines for Energy-Proportional Data Center Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "279",
+    "end_page": "287",
+    "year": "2016",
+    "doi": "10.1109/IFIPNETWORKING.2016.7497217",
+    "urls": [
+      "https://doi.org/10.1109/IFIPNetworking.2016.7497217",
+      "https://doi.ieeecomputersociety.org/10.1109/IFIPNetworking.2016.7497217"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 47,
+    "venue": "17th International Conference on Parallel and Distributed Computing, Applications and Technologies, PDCAT 2016, Guangzhou, China, December 16-18, 2016",
+    "authors": "Mingming Zhang, Songyun Wang, Gaopan Huang, Yefei Li, Sheng Zhang, Zhuzhong Qian",
+    "title": "Dynamic Load Balancing for Physical Servers in Virtualized Environment",
+    "vol": "",
+    "num": "",
+    "start_page": "227",
+    "end_page": "232",
+    "year": "2016",
+    "doi": "10.1109/PDCAT.2016.057",
+    "urls": [
+      "https://doi.org/10.1109/PDCAT.2016.057",
+      "https://doi.ieeecomputersociety.org/10.1109/PDCAT.2016.057"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 46,
+    "venue": "Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2016, Riva del Garda, Italy, September 19-23, 2016, Proceedings, Part I",
+    "authors": "Bolei Zhang, Zhuzhong Qian, Sanglu Lu",
+    "title": "Structure Pattern Analysis and Cascade Prediction in Social Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "524",
+    "end_page": "539",
+    "year": "2016",
+    "doi": "10.1007/978-3-319-46128-1_33",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-46128-1_33"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 45,
+    "venue": "Security, Privacy and Anonymity in Computation, Communication and Storage - SpaCCS 2016 International Workshops, TrustData, TSP, NOPE, DependSys, BigDataSPT, and WCSSC, Zhangjiajie, China, November 16-18, 2016, Proceedings",
+    "authors": "Guoquan Yuan, Songyun Wang, Mingming Zhang, Yefei Li, Xin Li, Tiantian Wang, Zhuzhong Qian",
+    "title": "Opportunistic Resource Sharing Based Elastic Resource Allocation in a Data Center",
+    "vol": "",
+    "num": "",
+    "start_page": "124",
+    "end_page": "133",
+    "year": "2016",
+    "doi": "10.1007/978-3-319-49145-5_13",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-49145-5_13"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 44,
+    "venue": "2016 IEEE Trustcom/BigDataSE/ISPA, Tianjin, China, August 23-26, 2016",
+    "authors": "Wei Zhang, Sheng Zhang, Zhuzhong Qian, Kaiyuan Wen, Sanglu Lu",
+    "title": "Virtual Network Deployment in Hybrid Data Center Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "1256",
+    "end_page": "1263",
+    "year": "2016",
+    "doi": "10.1109/TRUSTCOM.2016.0202",
+    "urls": [
+      "https://doi.org/10.1109/TrustCom.2016.0202"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 43,
+    "venue": "2016 IEEE Trustcom/BigDataSE/ISPA, Tianjin, China, August 23-26, 2016",
+    "authors": "Yibo Jin, Yuan Gao, Zhuzhong Qian, Mingyu Zhai, Hui Peng, Sanglu Lu",
+    "title": "Workload-Aware Scheduling Across Geo-Distributed Data Centers",
+    "vol": "",
+    "num": "",
+    "start_page": "1455",
+    "end_page": "1462",
+    "year": "2016",
+    "doi": "10.1109/TRUSTCOM.2016.0228",
+    "urls": [
+      "https://doi.org/10.1109/TrustCom.2016.0228"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 42,
+    "venue": "2016 IEEE Trustcom/BigDataSE/ISPA, Tianjin, China, August 23-26, 2016",
+    "authors": "Jianbang Tian, Zhuzhong Qian, Mianxiong Dong, Sanglu Lu",
+    "title": "FairShare: Dynamic Max-Min Fairness Bandwidth Allocation in Datacenters",
+    "vol": "",
+    "num": "",
+    "start_page": "1463",
+    "end_page": "1470",
+    "year": "2016",
+    "doi": "10.1109/TRUSTCOM.2016.0229",
+    "urls": [
+      "https://doi.org/10.1109/TrustCom.2016.0229"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 14,
+    "venue": "Comput. Networks",
+    "authors": "Sheng Zhang, Jie Wu, Zhuzhong Qian, Sanglu Lu",
+    "title": "MobiCache: Cellular Traffic Offloading Leveraging Cooperative Caching in Mobile Social Networks",
+    "vol": "83",
+    "num": "",
+    "start_page": "184",
+    "end_page": "198",
+    "year": "2015",
+    "doi": "10.1016/J.COMNET.2015.03.011",
+    "urls": [
+      "https://doi.org/10.1016/j.comnet.2015.03.011"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 13,
+    "venue": "J. Comput. Sci. Technol.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "Service-Oriented Resource Allocation in Clouds: Pursuing Flexibility and Efficiency",
+    "vol": "30",
+    "num": "2",
+    "start_page": "421",
+    "end_page": "436",
+    "year": "2015",
+    "doi": "10.1007/S11390-015-1533-2",
+    "urls": [
+      "https://doi.org/10.1007/s11390-015-1533-2"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 12,
+    "venue": "Pervasive Mob. Comput.",
+    "authors": "Yan Zhang, Jin Shi, Tian Zhang, Xiangwei Liu, Zhuzhong Qian",
+    "title": "Modeling and Checking for Cyber-Physical System Based on Hybrid Interface Automata",
+    "vol": "24",
+    "num": "",
+    "start_page": "179",
+    "end_page": "193",
+    "year": "2015",
+    "doi": "10.1016/J.PMCJ.2015.07.008",
+    "urls": [
+      "https://doi.org/10.1016/j.pmcj.2015.07.008"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 11,
+    "venue": "IEEE Wirel. Commun.",
+    "authors": "Mianxiong Dong, Xiao Liu, Zhuzhong Qian, Anfeng Liu, Tao Wang",
+    "title": "QoE-ensured Price Competition Model for Emerging Mobile Networks",
+    "vol": "22",
+    "num": "4",
+    "start_page": "50",
+    "end_page": "57",
+    "year": "2015",
+    "doi": "10.1109/MWC.2015.7224727",
+    "urls": [
+      "https://doi.org/10.1109/MWC.2015.7224727"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 41,
+    "venue": "Database Systems for Advanced Applications - 20th International Conference, DASFAA 2015, Hanoi, Vietnam, April 20-23, 2015, Proceedings, Part II",
+    "authors": "Bolei Zhang, Zhuzhong Qian, Wenzhong Li, Sanglu Lu",
+    "title": "Pricing Strategies for Maximizing Viral Advertising in Social Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "418",
+    "end_page": "434",
+    "year": "2015",
+    "doi": "10.1007/978-3-319-18123-3_25",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-18123-3_25"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 40,
+    "venue": "Algorithms and Architectures for Parallel Processing - 15th International Conference, ICA3PP 2015, Zhangjiajie, China, November 18-20, 2015, Proceedings, Part II",
+    "authors": "Wei Huang, Jin Shi, Zhen Wang, Zhuzhong Qian",
+    "title": "BiTEM: A Two-Tier Energy Efficient Resource Management Framework for Real-Time Tasks in Clusters",
+    "vol": "",
+    "num": "",
+    "start_page": "494",
+    "end_page": "508",
+    "year": "2015",
+    "doi": "10.1007/978-3-319-27122-4_34",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-27122-4_34"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 39,
+    "venue": "2015 IEEE International Conference on Communications, ICC 2015, London, United Kingdom, June 8-12, 2015",
+    "authors": "Fuguang Wang, Zhuzhong Qian, Sheng Zhang, Mianxiong Dong, Sanglu Lu",
+    "title": "SmartRep: Reducing Flow Completion Times With Minimal Replication in Data Centers",
+    "vol": "",
+    "num": "",
+    "start_page": "460",
+    "end_page": "465",
+    "year": "2015",
+    "doi": "10.1109/ICC.2015.7248364",
+    "urls": [
+      "https://doi.org/10.1109/ICC.2015.7248364"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 38,
+    "venue": "9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2015, Santa Cantarina, Brazil, July 8-10, 2015",
+    "authors": "Weicheng Huai, Wei Huang, Shi Jin, Zhuzhong Qian",
+    "title": "Towards Energy Efficient Scheduling for Online Tasks in Cloud Data Centers Based on DVFS",
+    "vol": "",
+    "num": "",
+    "start_page": "225",
+    "end_page": "232",
+    "year": "2015",
+    "doi": "10.1109/IMIS.2015.35",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2015.35",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2015.35"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 37,
+    "venue": "2015 IEEE Conference on Computer Communications, INFOCOM 2015, Kowloon, Hong Kong, April 26 - May 1, 2015",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Fanyu Kong, Jie Wu, Sanglu Lu",
+    "title": "P<sup>3</Sup>: Joint Optimization of Charger Placement and Power Allocation for Wireless Power Transfer",
+    "vol": "",
+    "num": "",
+    "start_page": "2344",
+    "end_page": "2352",
+    "year": "2015",
+    "doi": "10.1109/INFOCOM.2015.7218622",
+    "urls": [
+      "https://doi.org/10.1109/INFOCOM.2015.7218622"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 10,
+    "venue": "Int. J. Inf. Manag.",
+    "authors": "Xin Li, Zhuzhong Qian, Ilsun You, Sanglu Lu",
+    "title": "Towards Cost Efficient Mobile Service and Information Management in Ubiquitous Environment With Cloud Resource Scheduling",
+    "vol": "34",
+    "num": "3",
+    "start_page": "319",
+    "end_page": "328",
+    "year": "2014",
+    "doi": "10.1016/J.IJINFOMGT.2013.11.007",
+    "urls": [
+      "https://doi.org/10.1016/j.ijinfomgt.2013.11.007"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 9,
+    "venue": "IEEE Trans. Parallel Distributed Syst.",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu, Leah Epstein",
+    "title": "Virtual Network Embedding With Opportunistic Resource Sharing",
+    "vol": "25",
+    "num": "3",
+    "start_page": "816",
+    "end_page": "827",
+    "year": "2014",
+    "doi": "10.1109/TPDS.2013.64",
+    "urls": [
+      "https://doi.org/10.1109/TPDS.2013.64",
+      "http://doi.ieeecomputersociety.org/10.1109/TPDS.2013.64"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 36,
+    "venue": "Algorithms and Architectures for Parallel Processing - 14th International Conference, ICA3PP 2014, Dalian, China, August 24-27, 2014. Proceedings, Part I",
+    "authors": "Gangyi Luo, Zhuzhong Qian, Mianxiong Dong, Kaoru Ota, Sanglu Lu",
+    "title": "Network-Aware Re-Scheduling: Towards Improving Network Performance of Virtual Machines in a Data Center",
+    "vol": "",
+    "num": "",
+    "start_page": "255",
+    "end_page": "269",
+    "year": "2014",
+    "doi": "10.1007/978-3-319-11197-1_20",
+    "urls": [
+      "https://doi.org/10.1007/978-3-319-11197-1_20"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 35,
+    "venue": "IEEE International Conference on Communications, ICC 2014, Sydney, Australia, June 10-14, 2014",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "SEA: Stable Resource Allocation in Geographically Distributed Clouds",
+    "vol": "",
+    "num": "",
+    "start_page": "2932",
+    "end_page": "2937",
+    "year": "2014",
+    "doi": "10.1109/ICC.2014.6883770",
+    "urls": [
+      "https://doi.org/10.1109/ICC.2014.6883770"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 34,
+    "venue": "23rd International Conference on Computer Communication and Networks, ICCCN 2014, Shanghai, China, August 4-7, 2014",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "Leveraging Tenant Flexibility in Resource Allocation for Virtual Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "8",
+    "year": "2014",
+    "doi": "10.1109/ICCCN.2014.6911766",
+    "urls": [
+      "https://doi.org/10.1109/ICCCN.2014.6911766"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 33,
+    "venue": "20th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2014, Hsinchu, Taiwan, December 16-19, 2014",
+    "authors": "Hao Wu, Zhuzhong Qian, Xin Li, Sanglu Lu",
+    "title": "Don't Be Fat: Towards Efficient Online Flow Scheduling in Data Center Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "71",
+    "end_page": "78",
+    "year": "2014",
+    "doi": "10.1109/PADSW.2014.7097793",
+    "urls": [
+      "https://doi.org/10.1109/PADSW.2014.7097793",
+      "https://doi.ieeecomputersociety.org/10.1109/PADSW.2014.7097793"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 32,
+    "venue": "20th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2014, Hsinchu, Taiwan, December 16-19, 2014",
+    "authors": "Ruiqing Chi, Zhuzhong Qian, Sanglu Lu",
+    "title": "Be a Good Neighbour: Characterizing Performance Interference of Virtual Machines Under Xen Virtualization Environments",
+    "vol": "",
+    "num": "",
+    "start_page": "257",
+    "end_page": "264",
+    "year": "2014",
+    "doi": "10.1109/PADSW.2014.7097816",
+    "urls": [
+      "https://doi.org/10.1109/PADSW.2014.7097816",
+      "https://doi.ieeecomputersociety.org/10.1109/PADSW.2014.7097816"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 31,
+    "venue": "Eighth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2014, Birmingham, United Kingdom, 2-4 July, 2014",
+    "authors": "Zhigang Jiang, Wei Huang, Ilsun You, Zhuzhong Qian, Sanglu Lu",
+    "title": "Thermal-Aware Task Placement With Dynamic Thermal Model in an Established Datacenter",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "8",
+    "year": "2014",
+    "doi": "10.1109/IMIS.2014.1",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2014.1",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2014.1"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 30,
+    "venue": "Eighth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2014, Birmingham, United Kingdom, 2-4 July, 2014",
+    "authors": "Yan Zhang, Xiangwei Liu, Jin Shi, Tian Zhang, Zhuzhong Qian",
+    "title": "Scenario-Based Behavioral Nonexistent Consistency Checking for Cyber-Physical Systems",
+    "vol": "",
+    "num": "",
+    "start_page": "58",
+    "end_page": "65",
+    "year": "2014",
+    "doi": "10.1109/IMIS.2014.8",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2014.8",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2014.8"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 29,
+    "venue": "Proceedings of the 6th Asia-Pacific Symposium on Internetware, Internetware 2014, Hong Kong, China, November 17, 2014",
+    "authors": "Xiaoda Zhang, Haiyan Chen, Xin Li, Zhuzhong Qian, Sheng Zhang, Sanglu Lu",
+    "title": "Guarantee High Reliability and Effectiveness for Softwares in Internetware",
+    "vol": "",
+    "num": "",
+    "start_page": "107",
+    "end_page": "115",
+    "year": "2014",
+    "doi": "10.1145/2677832.2677846",
+    "urls": [
+      "https://doi.org/10.1145/2677832.2677846"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 8,
+    "venue": "J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl.",
+    "authors": "Weicheng Huai, Zhuzhong Qian, Xin Li, Gangyi Luo, Sanglu Lu",
+    "title": "Energy Aware Task Scheduling in Data Centers",
+    "vol": "4",
+    "num": "2",
+    "start_page": "18",
+    "end_page": "38",
+    "year": "2013",
+    "doi": "10.22667/JOWUA.2013.06.31.018",
+    "urls": [
+      "https://doi.org/10.22667/JOWUA.2013.06.31.018"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 7,
+    "venue": "Math. Comput. Model.",
+    "authors": "Xin Li, Zhuzhong Qian, Sanglu Lu, Jie Wu",
+    "title": "Energy Efficient Virtual Machine Placement Algorithm With Balanced and Improved Resource Utilization in a Data Center",
+    "vol": "58",
+    "num": "5-6",
+    "start_page": "1222",
+    "end_page": "1235",
+    "year": "2013",
+    "doi": "10.1016/J.MCM.2013.02.003",
+    "urls": [
+      "https://doi.org/10.1016/j.mcm.2013.02.003"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 6,
+    "venue": "J. Supercomput.",
+    "authors": "Kun You, Bin Tang, Zhuzhong Qian, Sanglu Lu, Daoxu Chen",
+    "title": "QoS-aware Placement of Stream Processing Service",
+    "vol": "64",
+    "num": "3",
+    "start_page": "919",
+    "end_page": "941",
+    "year": "2013",
+    "doi": "10.1007/S11227-010-0548-2",
+    "urls": [
+      "https://doi.org/10.1007/s11227-010-0548-2"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 28,
+    "venue": "2013 IEEE Global Communications Conference, GLOBECOM 2013, Atlanta, GA, USA, December 9-13, 2013",
+    "authors": "Kaiyuan Wen, Zhuzhong Qian, Sanglu Lu",
+    "title": "Breaking the Atomicity of Virtual Network Embedding",
+    "vol": "",
+    "num": "",
+    "start_page": "2307",
+    "end_page": "2312",
+    "year": "2013",
+    "doi": "10.1109/GLOCOM.2013.6831418",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2013.6831418"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 27,
+    "venue": "Seventh International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2013, Taichung, Taiwan, July 3-5, 2013",
+    "authors": "Weicheng Huai, Zhuzhong Qian, Xin Li, Sanglu Lu",
+    "title": "Towards Energy Efficient Data Centers: A DVFS-Based Request Scheduling Perspective",
+    "vol": "",
+    "num": "",
+    "start_page": "299",
+    "end_page": "306",
+    "year": "2013",
+    "doi": "10.1109/IMIS.2013.57",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2013.57",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2013.57"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 26,
+    "venue": "Seventh International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2013, Taichung, Taiwan, July 3-5, 2013",
+    "authors": "Wei Huang, Xin Li, Zhuzhong Qian",
+    "title": "An Energy Efficient Virtual Machine Placement Algorithm With Balanced Resource Utilization",
+    "vol": "",
+    "num": "",
+    "start_page": "313",
+    "end_page": "319",
+    "year": "2013",
+    "doi": "10.1109/IMIS.2013.59",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2013.59",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2013.59"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 25,
+    "venue": "Proceedings of the 5th Asia-Pacific Symposium on Internetware, Internetware 2013, Changsha, China, October 23-24, 2013",
+    "authors": "Zhen Wang, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Probability Based Algorithm for Influence Maximization in Social Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "12:1",
+    "end_page": "12:7",
+    "year": "2013",
+    "doi": "10.1145/2532443.2532455",
+    "urls": [
+      "https://doi.org/10.1145/2532443.2532455"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 24,
+    "venue": "27th IEEE International Symposium on Parallel and Distributed Processing, IPDPS 2013, Cambridge, MA, USA, May 20-24, 2013",
+    "authors": "Zhaoyi Luo, Zhuzhong Qian",
+    "title": "Burstiness-Aware Server Consolidation via Queuing Theory Approach in a Computing Cloud",
+    "vol": "",
+    "num": "",
+    "start_page": "332",
+    "end_page": "341",
+    "year": "2013",
+    "doi": "10.1109/IPDPS.2013.62",
+    "urls": [
+      "https://doi.org/10.1109/IPDPS.2013.62",
+      "https://doi.ieeecomputersociety.org/10.1109/IPDPS.2013.62"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 23,
+    "venue": "Advances in Knowledge Discovery and Data Mining, 17th Pacific-Asia Conference, PAKDD 2013, Gold Coast, Australia, April 14-17, 2013, Proceedings, Part II",
+    "authors": "Bolei Zhang, Zhuzhong Qian, Xiaoliang Wang, Sanglu Lu",
+    "title": "Tracing Influential Nodes in a Social Network With Competing Information",
+    "vol": "",
+    "num": "",
+    "start_page": "37",
+    "end_page": "48",
+    "year": "2013",
+    "doi": "10.1007/978-3-642-37456-2_4",
+    "urls": [
+      "https://doi.org/10.1007/978-3-642-37456-2_4"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 5,
+    "venue": "Comput. Math. Appl.",
+    "authors": "Zhuzhong Qian, Ce Chen, Ilsun You, Sanglu Lu",
+    "title": "ACSP: A Novel Security Protocol Against Counting Attack for UHF RFID Systems",
+    "vol": "63",
+    "num": "2",
+    "start_page": "492",
+    "end_page": "500",
+    "year": "2012",
+    "doi": "10.1016/J.CAMWA.2011.08.030",
+    "urls": [
+      "https://doi.org/10.1016/j.camwa.2011.08.030",
+      "https://www.wikidata.org/entity/Q115100054"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 4,
+    "venue": "J. Intell. Manuf.",
+    "authors": "Zhuzhong Qian, Zhenghui Wang, Tianyin Xu, Sanglu Lu",
+    "title": "A Dynamic Service Composition Schema for Pervasive Computing",
+    "vol": "23",
+    "num": "4",
+    "start_page": "1271",
+    "end_page": "1280",
+    "year": "2012",
+    "doi": "10.1007/S10845-010-0410-7",
+    "urls": [
+      "https://doi.org/10.1007/s10845-010-0410-7"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 22,
+    "venue": "Sixth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2012, Palermo, Italy, July 4-6, 2012",
+    "authors": "Xin Li, Zhuzhong Qian, Ruiqing Chi, Bolei Zhang, Sanglu Lu",
+    "title": "Balancing Resource Utilization for Continuous Virtual Machine Requests in Clouds",
+    "vol": "",
+    "num": "",
+    "start_page": "266",
+    "end_page": "273",
+    "year": "2012",
+    "doi": "10.1109/IMIS.2012.72",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2012.72",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2012.72"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 21,
+    "venue": "Sixth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2012, Palermo, Italy, July 4-6, 2012",
+    "authors": "Bolei Zhang, Zhuzhong Qian, Wei Huang, Xin Li, Sanglu Lu",
+    "title": "Minimizing Communication Traffic in Data Centers With Power-Aware VM Placement",
+    "vol": "",
+    "num": "",
+    "start_page": "280",
+    "end_page": "285",
+    "year": "2012",
+    "doi": "10.1109/IMIS.2012.71",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2012.71",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2012.71"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 20,
+    "venue": "Proceedings of the IEEE INFOCOM 2012, Orlando, FL, USA, March 25-30, 2012",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu",
+    "title": "An Opportunistic Resource Sharing and Topology-Aware Mapping Framework for Virtual Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "2408",
+    "end_page": "2416",
+    "year": "2012",
+    "doi": "10.1109/INFCOM.2012.6195630",
+    "urls": [
+      "https://doi.org/10.1109/INFCOM.2012.6195630"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 19,
+    "venue": "Proceedings of the Fourth Asia-Pacific Symposium on Internetware, Internetware 2012, QingDao, China, October 30-31, 2012",
+    "authors": "Ruiqing Chi, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Game Theoretical Method for Auto-Scaling of Multi-Tiers Web Applications in Cloud",
+    "vol": "",
+    "num": "",
+    "start_page": "3:1",
+    "end_page": "3:10",
+    "year": "2012",
+    "doi": "10.1145/2430475.2430478",
+    "urls": [
+      "https://doi.org/10.1145/2430475.2430478"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 3,
+    "venue": "Comput. Informatics",
+    "authors": "Zhuzhong Qian, Ilsun You, Youyou Lu, Sanglu Lu",
+    "title": "A Tree-Based Hierarchy Data Storage Framework in a Pervasive Space",
+    "vol": "30",
+    "num": "6",
+    "start_page": "1181",
+    "end_page": "1199",
+    "year": "2011",
+    "doi": "",
+    "urls": [
+      "http://www.cai.sk/ojs/index.php/cai/article/view/811"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 2,
+    "venue": "J. Univers. Comput. Sci.",
+    "authors": "Zhuzhong Qian, Sheng Zhang, Kangbin Yim, Sanglu Lu",
+    "title": "Service Oriented Multimedia Delivery System in Pervasive Environments",
+    "vol": "17",
+    "num": "6",
+    "start_page": "961",
+    "end_page": "980",
+    "year": "2011",
+    "doi": "10.3217/JUCS-017-06-0961",
+    "urls": [
+      "https://doi.org/10.3217/jucs-017-06-0961"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 18,
+    "venue": "IEEE/IFIP 9th International Conference on Embedded and Ubiquitous Computing, EUC 2011, Melbourne, Australia, October 24-26, 2011",
+    "authors": "Chih-Hao Hsu, Peng Li, Song Guo, Shui Yu, Zhuzhong Qian",
+    "title": "Multicast Lifetime Maximization Using Network Coding in Lossy Wireless Ad Hoc Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "95",
+    "end_page": "99",
+    "year": "2011",
+    "doi": "10.1109/EUC.2011.51",
+    "urls": [
+      "https://doi.org/10.1109/EUC.2011.51",
+      "https://doi.ieeecomputersociety.org/10.1109/EUC.2011.51"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 17,
+    "venue": "Proceedings of the Global Communications Conference, GLOBECOM 2011, 5-9 December 2011, Houston, Texas, USA",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Bin Tang, Jie Wu, Sanglu Lu",
+    "title": "Opportunistic Bandwidth Sharing for Virtual Network Mapping",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "5",
+    "year": "2011",
+    "doi": "10.1109/GLOCOM.2011.6133670",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2011.6133670"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 16,
+    "venue": "Proceedings of IEEE International Conference on Communications, ICC 2011, Kyoto, Japan, 5-9 June, 2011",
+    "authors": "Kun You, Zhuzhong Qian, Song Guo, Sanglu Lu, Daoxu Chen",
+    "title": "QoS-Aware Service Redeployment in Cloud",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "5",
+    "year": "2011",
+    "doi": "10.1109/ICC.2011.5963204",
+    "urls": [
+      "https://doi.org/10.1109/icc.2011.5963204"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 15,
+    "venue": "Proceedings of IEEE International Conference on Communications, ICC 2011, Kyoto, Japan, 5-9 June, 2011",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Song Guo, Sanglu Lu",
+    "title": "FELL: A Flexible Virtual Network Embedding Algorithm With Guaranteed Load Balancing",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "5",
+    "year": "2011",
+    "doi": "10.1109/ICC.2011.5962960",
+    "urls": [
+      "https://doi.org/10.1109/icc.2011.5962960"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 14,
+    "venue": "Proceedings of the Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2011, Seoul, Korea, June 30-July 02, 2011",
+    "authors": "Ruiqing Chi, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Heuristic Approach for Scalability of Multi-Tiers Web Application in Clouds",
+    "vol": "",
+    "num": "",
+    "start_page": "28",
+    "end_page": "35",
+    "year": "2011",
+    "doi": "10.1109/IMIS.2011.80",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2011.80",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2011.80"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 13,
+    "venue": "Proceedings of the Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2011, Seoul, Korea, June 30-July 02, 2011",
+    "authors": "Ce Chen, Zhuzhong Qian, Ilsun You, Jue Hong, Sanglu Lu",
+    "title": "ACSP: A Novel Security Protocol Against Counting Attack for UHF RFID Systems",
+    "vol": "",
+    "num": "",
+    "start_page": "100",
+    "end_page": "105",
+    "year": "2011",
+    "doi": "10.1109/IMIS.2011.60",
+    "urls": [
+      "https://doi.org/10.1109/IMIS.2011.60",
+      "https://doi.ieeecomputersociety.org/10.1109/IMIS.2011.60"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 12,
+    "venue": "CISIS 2010, The Fourth International Conference on Complex, Intelligent and Software Intensive Systems, Krakow, Poland, 15-18 February 2010",
+    "authors": "Zhuzhong Qian, Ilsun You, Youyou Lu, Sanglu Lu",
+    "title": "A Dynamic Host Selection Algorithm for Layered Data Storage Architecture in a Pervasive Space",
+    "vol": "",
+    "num": "",
+    "start_page": "812",
+    "end_page": "817",
+    "year": "2010",
+    "doi": "10.1109/CISIS.2010.42",
+    "urls": [
+      "https://doi.org/10.1109/CISIS.2010.42",
+      "https://doi.ieeecomputersociety.org/10.1109/CISIS.2010.42"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 11,
+    "venue": "Proceedings of IEEE International Conference on Communications, ICC 2010, Cape Town, South Africa, 23-27 May 2010",
+    "authors": "Song Guo, Victor C. M. Leung, Zhuzhong Qian",
+    "title": "A Permutation-Based Multi-Polynomial Scheme for Pairwise Key Establishment in Sensor Networks",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "5",
+    "year": "2010",
+    "doi": "10.1109/ICC.2010.5502141",
+    "urls": [
+      "https://doi.org/10.1109/ICC.2010.5502141"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 10,
+    "venue": "Proceedings of the Second Asia-Pacific Symposium on Internetware, Internetware 2010, Suzhou, China, November 3-4, 2010",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Sanglu Lu, Daoxu Chen",
+    "title": "A Binary Graph Reduction Algorithm for Multi-Constrained QoS Routing",
+    "vol": "",
+    "num": "",
+    "start_page": "2",
+    "end_page": "",
+    "year": "2010",
+    "doi": "10.1145/2020723.2020725",
+    "urls": [
+      "https://doi.org/10.1145/2020723.2020725",
+      "https://www.wikidata.org/entity/Q130968367"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 9,
+    "venue": "Proceedings of the 2010 ACM Symposium on Applied Computing (SAC), Sierre, Switzerland, March 22-26, 2010",
+    "authors": "Song Guo, Zhuzhong Qian, Sanglu Lu",
+    "title": "A General Energy Optimization Model for Wireless Networks Using Configurable Antennas",
+    "vol": "",
+    "num": "",
+    "start_page": "246",
+    "end_page": "250",
+    "year": "2010",
+    "doi": "10.1145/1774088.1774140",
+    "urls": [
+      "https://doi.org/10.1145/1774088.1774140"
+    ]
+  },
+  {
+    "type": "J",
+    "no": 1,
+    "venue": "Int. J. Softw. Informatics",
+    "authors": "Kun You, Zhuzhong Qian, Bin Tang, Sanglu Lu, Daoxu Chen",
+    "title": "QoS-Aware Replication in Service Composition",
+    "vol": "3",
+    "num": "4",
+    "start_page": "465",
+    "end_page": "482",
+    "year": "2009",
+    "doi": "",
+    "urls": [
+      "http://www.ijsi.org/ch/reader/view_abstract.aspx?file_no=465&flag=1"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 8,
+    "venue": "2009 International Conference on Complex, Intelligent and Software Intensive Systems, CISIS 2009, Fukuoka, Japan, March 16-19, 2009",
+    "authors": "Zhenghui Wang, Tianyin Xu, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Parameter-Based Scheme for Service Composition in Pervasive Computing Environment",
+    "vol": "",
+    "num": "",
+    "start_page": "543",
+    "end_page": "548",
+    "year": "2009",
+    "doi": "10.1109/CISIS.2009.50",
+    "urls": [
+      "https://doi.org/10.1109/CISIS.2009.50",
+      "https://doi.ieeecomputersociety.org/10.1109/CISIS.2009.50"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 7,
+    "venue": "Fourth International Conference on Frontier of Computer Science and Technology, FCST 2009, Shanghai, China, 17-19 December, 2009",
+    "authors": "Youyou Lu, Zhuzhong Qian, Sanglu Lu",
+    "title": "A Tree-Based Hierarchy Framework for RFID Data Repository",
+    "vol": "",
+    "num": "",
+    "start_page": "190",
+    "end_page": "196",
+    "year": "2009",
+    "doi": "10.1109/FCST.2009.34",
+    "urls": [
+      "https://doi.org/10.1109/FCST.2009.34",
+      "https://doi.ieeecomputersociety.org/10.1109/FCST.2009.34"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 6,
+    "venue": "Proceedings of the Global Communications Conference, 2009. GLOBECOM 2009, Honolulu, Hawaii, USA, 30 November - 4 December 2009",
+    "authors": "Zhuzhong Qian, Song Guo, Minyi Guo, Sanglu Lu",
+    "title": "Context-Aware Multimedia Processing System in a Pervasive Environment",
+    "vol": "",
+    "num": "",
+    "start_page": "1",
+    "end_page": "6",
+    "year": "2009",
+    "doi": "10.1109/GLOCOM.2009.5425934",
+    "urls": [
+      "https://doi.org/10.1109/GLOCOM.2009.5425934"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 5,
+    "venue": "Proceedings of the First Asia-Pacific Symposium on Internetware, Internetware 2009, Beijing, China, October 17 - 18, 2009",
+    "authors": "Kun You, Zhuzhong Qian, Bin Tang, Sanglu Lu, Daoxu Chen",
+    "title": "QoS-aware Service Replication",
+    "vol": "",
+    "num": "",
+    "start_page": "8",
+    "end_page": "",
+    "year": "2009",
+    "doi": "10.1145/1640206.1640214",
+    "urls": [
+      "https://doi.org/10.1145/1640206.1640214"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 4,
+    "venue": "IEEE International Symposium on Parallel and Distributed Processing with Applications, ISPA 2009, Chengdu, Sichuan, China, 10-12 August 2009",
+    "authors": "Sheng Zhang, Zhuzhong Qian, Minyi Guo, Sanglu Lu",
+    "title": "An Efficient Algorithm for Multimedia Delivery in Pervasive Space",
+    "vol": "",
+    "num": "",
+    "start_page": "113",
+    "end_page": "118",
+    "year": "2009",
+    "doi": "10.1109/ISPA.2009.34",
+    "urls": [
+      "https://doi.org/10.1109/ISPA.2009.34",
+      "https://doi.ieeecomputersociety.org/10.1109/ISPA.2009.34"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 3,
+    "venue": "2009 IEEE Wireless Communications and Networking Conference, WCNC 2009, Proceedings, Budapest, Hungary, 5-8 April 2009",
+    "authors": "Zhuzhong Qian, Minyi Guo, Sheng Zhang, Sanglu Lu",
+    "title": "Service-Oriented Multimedia Delivery in Pervasive Space",
+    "vol": "",
+    "num": "",
+    "start_page": "3012",
+    "end_page": "3017",
+    "year": "2009",
+    "doi": "10.1109/WCNC.2009.4917963",
+    "urls": [
+      "https://doi.org/10.1109/WCNC.2009.4917963"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 2,
+    "venue": "Proceedings of The 2nd IEEE Asia-Pacific Services Computing Conference, APSCC 2007, December 11-14, 2007, Tsukuba Science City, Japan",
+    "authors": "Zhuzhong Qian, Sanglu Lu, Li Xie",
+    "title": "Colored Petri Net Based Automatic Service Composition",
+    "vol": "",
+    "num": "",
+    "start_page": "431",
+    "end_page": "438",
+    "year": "2007",
+    "doi": "10.1109/APSCC.2007.16",
+    "urls": [
+      "https://doi.org/10.1109/APSCC.2007.16",
+      "https://doi.ieeecomputersociety.org/10.1109/APSCC.2007.16"
+    ]
+  },
+  {
+    "type": "C",
+    "no": 1,
+    "venue": "Grid and Cooperative Computing - GCC 2005, 4th International Conference, Beijing, China, November 30 - December 3, 2005, Proceedings",
+    "authors": "Zhuzhong Qian, Sanglu Lu, Li Xie",
+    "title": "Mobile-Agent-Based Web Service Composition",
+    "vol": "",
+    "num": "",
+    "start_page": "35",
+    "end_page": "46",
+    "year": "2005",
+    "doi": "10.1007/11590354_5",
+    "urls": [
+      "https://doi.org/10.1007/11590354_5"
+    ]
+  }
+]
