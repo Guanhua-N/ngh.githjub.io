@@ -12,16 +12,16 @@ main:
   #   url: /aboutme/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/index.html
 
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/index.html   
     
   - title: "Students"
-    url: /students/  
+    url: /students/index.html   
   # - title: "Portfolio"
   #   url: /portfolio/
         
