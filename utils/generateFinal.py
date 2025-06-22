@@ -46,7 +46,12 @@ def format_entries(entry,namelist):
         else:
             raise ValueError(f"[错误] 记录{entry}的end_page非空但start_page为空 ，请检查数据。")
         
-    line = f"[{type}{no}]{authors}.{title}.<i>{totalNmae_venue}{abbreviation_venue}</i>{vol}{num}{start_page}{end_page}"
+    line = f'''
+<div class="pub-entry">
+<div class="pub-label">[{type}{no}]</div>
+<div class="pub-text">{authors}. {title}. <i>{totalNmae_venue}{abbreviation_venue}</i>{vol}{num}{start_page}{end_page}</div>
+</div>
+            '''
     
     return line
 
@@ -66,8 +71,7 @@ def main():
             last_year = entry['year']
         namelist = manualMap_entry[entry["venue"]]
         line = format_entries(entry,namelist)
-        processed_line = f'<p class="pub-entry">\n{line}\n</p>'
-        result.append(processed_line)
+        result.append(line)
 
 
     
