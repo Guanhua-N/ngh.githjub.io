@@ -22,4 +22,4 @@
 ## 一些细节
 每次修改代码后想要预览直接bundle exec jekyll serve就行，不用bundle install
 
-但是像生成新的静态页面文件必须要每次都bundle exec jekyll build
+但是想生成新的静态页面文件必须要每次都bundle exec jekyll build
