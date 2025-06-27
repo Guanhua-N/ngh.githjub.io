@@ -56,6 +56,13 @@ author_profile: true
 
 
 <div class="pub-entry">
+<div class="pub-label">[J61]</div>
+<div class="pub-text">Mingtao Ji, Hehan Zhao, Lei Jiao, Sheng Zhang, Xin Li, Zhuzhong Qian, Baoliu Ye. Edge AI Inference as a Service via Dynamic Resources from Repeated Auctions. <i>IEEE Transactions on Mobile Computing</i>(Accepted)</div>
+</div>
+
+
+
+<div class="pub-entry">
 <div class="pub-label">[J60]</div>
 <div class="pub-text">Mingtao Ji, Ji Qi, Lei Jiao, Gangyi Luo, Hehan Zhao, Xin Li, Baoliu Ye, Zhuzhong Qian. CPN Meets Learning: Online Scheduling for Inference Service in Computing Power Network. <i>Computer Networks(CN 2025)</i>,Vol.256,2025:110903</div>
 </div>
@@ -95,6 +102,12 @@ author_profile: true
 <div class="pub-text">Xiaohang Shi, Sheng Zhang, Meizhao Liu, Lingkun Meng, Liu Wei, Yingcheng Gu, Kai Liu, Huanyu Cheng, Yu Song, Lei Tang, Andong Zhu, Ning Chen, Zhuzhong Qian. Mystique: User-Level Adaptation for Real-Time Video Analytics in Edge Networks via Meta-Rl. <i>IEEE Transactions on Mobile Computing(TMC 2025)</i>,Vol.24(5),2025:3615-3632</div>
 </div>
             
+
+<div class="pub-entry">
+<div class="pub-label">[C119]</div>
+<div class="pub-text">Hesheng Sun, Zhuzhong Qian, Andong Zhu.  Bridging the Prediction-Decision Gap: Enhancing Model Deployment and Online Service Request Forecasting in Edge Inference Systems. <i>International Symposium of Quality of Service(IWQoS 2025)</i>,2–4 July 2025, Gold Coast, Australia</div>
+</div>
+
 
 ## 2024
 

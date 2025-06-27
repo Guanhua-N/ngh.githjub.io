@@ -4,68 +4,47 @@ permalink: /students/
 author_profile: true
 ---
 
+<style>
+  .grid-3cols {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .grid-3cols > div {
+    padding: 0;
+    border: none;
+    background: transparent;
+  }
+  .alumni-list {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+</style>
+
+
+
 ## PhD Students
 
-Yibo Jin (2017-present)
+<div class="grid-3cols">
+  {% for name in site.data.students.phd %}
+    <div>{{ name }}</div>
+  {% endfor %}
+</div>
 
-Hao Li (2018-present)
-
-Jingmian Wang (2018-present)
-
-Tuo Cao (2019-present)
-
-Mengxi Hanyao (2020-present)
-
-Hesheng Sun (2020-present)
 
 ## Master Students
 
-Mingtao Ji (2018-present)
+<div class="grid-3cols">
+  {% for name in site.data.students.master %}
+    <div>{{ name }}</div>
+  {% endfor %}
+</div>
 
-Xin He (2018-present)
+## Alumni
 
-Kun Wu (2019-present)
-
-Mingxian Zhou (2019-present)
-
-Alumni
-
-Xin Li (PhD 2008, Nanjing University of Aeronautics and Astronautics)
-
-Sheng Zhang (PhD 2008, Nanjing University)
-
-Zheng Sun
-
-Weicheng Huai
-
-Zhigang Jiang
-
-Bolei Zhang (PhD 2011, Jingdong)
-
-Gangyi Luo (Master 2011, China Mobile Communications Group)
-
-Fanyu Kong (Master 2011, Alibaba)
-
-Ruiqing Chi (Master 2012)
-
-Kaiyuan Wen (Master 2013, Wangyi)
-
-Haoreng Zhu (Master 2014, Huawei)
-
-Chenchen Han (Master 2014, TPLink)
-
-Rui Zhang (Master 2015, Intel)
-
-Maojian Dong (Master 2015, Tengxun)
-
-Xiaoda Zhang (PhD 2016, Huawei)
-
-Yize Li (Master 2016, Huawei)
-
-Shaodong Xiao (Master 2016, Wangyi)
-
-Xiangbo Li (Master 2016, Baidu)
-
-Yuan Chen (Master 2016, Bank of Xingye)
-
-Tiantian Wang (Master 2016, Microsoft)
+<ul class="alumni-list" style="list-style-type: none; padding-left: 0; margin-left: 0;">
+  {% for name in site.data.students.alumni %}
+    <li>{{ name }}</li>
+  {% endfor %}
+</ul>
