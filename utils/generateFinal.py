@@ -24,7 +24,10 @@ def format_entries(entry,namelist):
     if(abbreviation_venue=="unknown"):
         abbreviation_venue = ""
     else:
-        abbreviation_venue = f"({abbreviation_venue} {year})"
+        if(type == 'C'):
+            abbreviation_venue = f"({abbreviation_venue} {year})"
+        else:
+            abbreviation_venue = f"({abbreviation_venue})"
 
     vol = entry['vol']
     if(vol!=""):
@@ -49,7 +52,7 @@ def format_entries(entry,namelist):
     line = f'''
 <div class="pub-entry">
 <div class="pub-label">[{type}{no}]</div>
-<div class="pub-text">{authors}. {title}. <i>{totalNmae_venue}{abbreviation_venue}</i>{vol}{num}{start_page}{end_page}</div>
+<div class="pub-text">{authors}. {title}. <i>{totalNmae_venue} {abbreviation_venue}</i>{vol}{num}{start_page}{end_page}</div>
 </div>
             '''
     
